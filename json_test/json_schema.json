@@ -1,0 +1,15 @@
+
+{"label": "SERVICES PUBLIQUES", "total_points": 7, "max_points": 20, "items":[
+	{"label":"ÉCOLES PRIMAIRES", "total_points": 7, "max_points": 20, "items":[
+		{"label": "Taux d'Admission du CEP comparé à la moyenne nationale","scale_type": "percentage","point_value":"3.7","point_range":[0,5],"percentage_value": "88","breaks":[80,90,100]},
+		{"label": "Taux d'Admission du CEP comparé à la moyenne nationale","scale_type": "percentage","point_value":"3.7","point_range":[0,5],"percentage_value": "88","breaks":[80,90,100]},
+	]},
+	{"label":"ÉCOLES PRIMAIRES", "total_points": 7, "max_points": 20, "items":[
+		{"label": "Taux d'Admission du CEP comparé à la moyenne nationale","scale_type": "percentage","point_value":"3.7","point_range":[0,5],"percentage_value": "88","breaks":[80,90,100]},
+		{"label": "Taux d'Admission du CEP comparé à la moyenne nationale","scale_type": "percentage","point_value":"3.7","point_range":[0,5],"percentage_value": "88","breaks":[80,90,100]},
+	]},
+	{"label":"ÉCOLES PRIMAIRES", "total_points": 7, "max_points": 20, "items":[
+		{"label": "Taux d'Admission du CEP comparé à la moyenne nationale","scale_type": "percentage","point_value":"3.7","point_range":[0,5],"percentage_value": "88","breaks":[80,90,100]},
+		{"label": "Taux d'Admission du CEP comparé à la moyenne nationale","scale_type": "percentage","point_value":"3.7","point_range":[0,5],"percentage_value": "88","breaks":[80,90,100]},
+	]}
+]}
