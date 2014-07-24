@@ -1,6 +1,8 @@
 JSONObject json;
 
 void setup() {
+  
+  rect(10,10,10,10);
 
   json = loadJSONObject("json_schema.json");
 
