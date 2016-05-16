@@ -23,6 +23,10 @@ int textColor = color(0);
 int w = 1955;
 int h = 2806;
 
+void settings() {
+  size(w, h);
+}
+
 void setup(){
   
   //LOAD DATA FILE
@@ -34,7 +38,7 @@ void setup(){
     JSONObject communeData = json.getJSONObject(j);
     JSONArray sections = communeData.getJSONArray("items");
     beginRecord(PDF, "pdf/" + communeData.getString("commune") + ".pdf");
-    size(w, h);
+    //size(w, h);
     background(255);
     fill(0);
   
@@ -391,9 +395,3 @@ void total(String year, float totalPoints, float maxPoints, int stars){
   }
   
 }
-
-
-
-
-
-
