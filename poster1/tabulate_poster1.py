@@ -70,7 +70,19 @@ def number_personnel(row):
 
 # Number of Meetings Held (1-4)
 def meetings_held(row):
-	score = int(row['ic_a_03-ordinary_council_meetings']) * 2.5
+	# score = int(row['ic_a_03-ordinary_council_meetings']) * 2.5
+
+	initScore = int(row['ic_a_03-ordinary_council_meetings'])
+	if initScore == 0:
+		score = 0
+	if initScore == 1:
+		score = 1
+	if initScore == 2:
+		score = 3
+	if initScore == 3:
+		score = 4
+	if initScore == 4:
+		score = 5
 	
 	return dict(meetings_held=int(row['ic_a_03-ordinary_council_meetings']), meeting_score=score);
 
@@ -90,7 +102,8 @@ def average_attendance(row):
 		score = 0
 		perc = 0
 	else:
-		perc = int(row['ic_a_04-councilor_attendance_meeting1']) + int(row['ic_a_04-councilor_attendance_meeting2']) + int(row['ic_a_04-councilor_attendance_meeting3']) + int(row['ic_a_04-councilor_attendance_meeting4']) / int(row['ic_a_03-ordinary_council_meetings'])
+		avg = (int(row['ic_a_04-councilor_attendance_meeting1']) + int(row['ic_a_04-councilor_attendance_meeting2']) + int(row['ic_a_04-councilor_attendance_meeting3']) + int(row['ic_a_04-councilor_attendance_meeting4'])) / int(row['ic_a_03-ordinary_council_meetings'])
+		perc = (avg*100)/int(row['ic_a_04-total_councilor'])
 		score = 0;
 		if(perc >=20 and perc <40):
 			score = 0 + ((40 - perc) / 20.0);
@@ -99,20 +112,20 @@ def average_attendance(row):
 		if(perc >=60 and perc <80):
 			score = 4 + ((80 - perc) / 20.0);
 		if(perc >=80 and perc <90):
-			score = 6 + ((90 - perc) / 10.0);
+			score =  6 + ((90 - perc) / 10.0);
 		if(perc >=90 and perc <100):
 			score = 8 + ((100 - perc) / 10.0);
 		if(perc >=100):
 			score = 10;
+
+		# if row['commune'] == 'BARSALOGHO':
+		# 	print avg, perc, score
 	return dict(average_attendance=perc, attendance_score=round(score,1));
 
 # Number of meetings Held (0-4): How many of these meetings were held: ic_a_05-CdC_meetings_2013
 def meetings_held2(row):
 	meetings = int( row['ic_a_05-CdC_meetings_2013'] )
 	score = meetings * 2
-
-	if(score > 0):
-		score += 2
 
 	return dict(meetings_held2=meetings, meeting_score2=score);
 
@@ -125,49 +138,49 @@ def tax_raised(row):
 		score = 0
 
 		if( tax/pop >= 100 ):
-			score = 1 + ((200 - (tax/pop)) / 100.0); 
+			score = 1 #+ ((200 - (tax/pop)) / 100.0); 
 		if( tax/pop >= 200 ):
-			score = 2 + ((400 - (tax/pop)) / 200.0);
+			score = 2 #+ ((400 - (tax/pop)) / 200.0);
 		if( tax/pop >= 400 ):
-			score = 3 + ((600 - (tax/pop)) / 200.0);
+			score = 3 #+ ((600 - (tax/pop)) / 200.0);
 		if( tax/pop >= 600 ):
-			score = 4 + ((1000 - (tax/pop)) / 400.0);
+			score = 4 #+ ((1000 - (tax/pop)) / 400.0);
 		if( tax/pop >= 1000 ):
-			score = 5 + ((1200 - (tax/pop)) / 200.0);
+			score = 5 #+ ((1200 - (tax/pop)) / 200.0);
 		if( tax/pop >= 1200 ):
-			score = 6 + ((1400 - (tax/pop)) / 200.0);
+			score = 6 #+ ((1400 - (tax/pop)) / 200.0);
 		if( tax/pop >= 1400 ):
-			score = 7 + ((1800 - (tax/pop)) / 400.0);
+			score = 7 #+ ((1800 - (tax/pop)) / 400.0);
 		if( tax/pop >= 1800 ):
-			score = 8 + ((2000 - (tax/pop)) / 200.0);
+			score = 8 #+ ((2000 - (tax/pop)) / 200.0);
 		if( tax/pop >= 2000 ):
-			score = 9 + ((2200 - (tax/pop)) / 200.0);
+			score = 9 #+ ((2200 - (tax/pop)) / 200.0);
 		if( tax/pop >= 2200 ):
-			score = 10 + ((2400 - (tax/pop)) / 200.0);
+			score = 10 #+ ((2400 - (tax/pop)) / 200.0);
 		if( tax/pop >= 2400 ):
-			score = 11 + ((2800 - (tax/pop)) / 400.0);
+			score = 11 #+ ((2800 - (tax/pop)) / 400.0);
 		if( tax/pop >= 2800 ):
-			score = 12 + ((3000 - (tax/pop)) / 200.0);
+			score = 12 #+ ((3000 - (tax/pop)) / 200.0);
 		if( tax/pop >= 3000 ):
-			score = 13 + ((3500 - (tax/pop)) / 500.0);
+			score = 13 #+ ((3500 - (tax/pop)) / 500.0);
 		if( tax/pop >= 3500 ):
-			score = 14 + ((4000 - (tax/pop)) / 500.0);
+			score = 14 #+ ((4000 - (tax/pop)) / 500.0);
 		if( tax/pop >= 4000 ):
-			score = 14 + ((4500 - (tax/pop)) / 500.0);
+			score = 14 #+ ((4500 - (tax/pop)) / 500.0);
 		if( tax/pop >= 4500 ):
-			score = 15 + ((5000 - (tax/pop)) / 500.0);
+			score = 15 #+ ((5000 - (tax/pop)) / 500.0);
 		if( tax/pop >= 5000 ):
-			score = 16 + ((5500 - (tax/pop)) / 500.0);
+			score = 16 #+ ((5500 - (tax/pop)) / 500.0);
 		if( tax/pop >= 5500 ):
-			score = 17 + ((6000 - (tax/pop)) / 500.0);
+			score = 17 #+ ((6000 - (tax/pop)) / 500.0);
 		if( tax/pop >= 6000 ):
-			score = 18 + ((6500 - (tax/pop)) / 500.0);
+			score = 18 #+ ((6500 - (tax/pop)) / 500.0);
 		if( tax/pop >= 6500 ):
-			score = 19 + ((7000 - (tax/pop)) / 500.0);
+			score = 19 #+ ((7000 - (tax/pop)) / 500.0);
 		if( tax/pop >= 7000 ):
-			score = 20 + ((7500 - (tax/pop)) / 500.0);
+			score = 20 #+ ((7500 - (tax/pop)) / 500.0);
 		if( tax/pop >= 7500 ):
-			score = 30
+			score = 25
 
 
 
@@ -185,21 +198,21 @@ def taxes_forecast(row):
 		perc = round((actual/forecast) * 100, 2)
 
 		if(perc >= 60):
-			score = 1 + ((65 - perc) / 5.0);
+			score = 1 #+ ((65 - perc) / 5.0);
 		if(perc >= 65):
-			score = 2 + ((70 - perc) / 5.0);
+			score = 2 #+ ((70 - perc) / 5.0);
 		if(perc >= 70):
-			score = 3 + ((75 - perc) / 5.0);
+			score = 3 #+ ((75 - perc) / 5.0);
 		if(perc >= 75):
-			score = 4 + ((80 - perc) / 5.0);
+			score = 4 #+ ((80 - perc) / 5.0);
 		if(perc >= 80):
-			score = 5 + ((85 - perc) / 5.0);
+			score = 5 #+ ((85 - perc) / 5.0);
 		if(perc >= 85):
-			score = 6 + ((90 - perc) / 5.0);
+			score = 6 #+ ((90 - perc) / 5.0);
 		if(perc >= 90):
-			score = 7 + ((95 - perc) / 5.0);
+			score = 7 #+ ((95 - perc) / 5.0);
 		if(perc >= 95):
-			score = 9 + ((100 - perc) / 5.0);
+			score = 9 #+ ((100 - perc) / 5.0);
 		if(perc >= 100):
 			score = 10
 
@@ -215,35 +228,35 @@ def procurement(row):
 	proc = float( row['ic_a_07-execution_equipment_procurement_plan'] )
 
 	if(proc >= 20):
-		score = 1 + ((30 - proc) / 10.0);
+		score = 1 #+ ((30 - proc) / 10.0);
 	if(proc >= 30):
-		score = 2 + ((35 - proc) / 5.0);
+		score = 2 #+ ((35 - proc) / 5.0);
 	if(proc >= 35):
-		score = 3 + ((40 - proc) / 10.0);
+		score = 3 #+ ((40 - proc) / 10.0);
 	if(proc >= 40):
-		score = 4 + ((50 - proc) / 10.0);
+		score = 4 #+ ((50 - proc) / 10.0);
 	if(proc >= 50):
-		score = 5 + ((55 - proc) / 5.0);
+		score = 5 #+ ((55 - proc) / 5.0);
 	if(proc >= 55):
-		score = 6 + ((60 - proc) / 5.0);
+		score = 6 #+ ((60 - proc) / 5.0);
 	if(proc >= 60):
-		score = 7 + ((65 - proc) / 5.0);
+		score = 7 #+ ((65 - proc) / 5.0);
 	if(proc >= 65):
-		score = 8 + ((70 - proc) / 5.0);
+		score = 8 #+ ((70 - proc) / 5.0);
 	if(proc >= 70):
-		score = 9 + ((75 - proc) / 5.0);
+		score = 9 #+ ((75 - proc) / 5.0);
 	if(proc >= 75):
-		score = 10 + ((80 - proc) / 5.0);
+		score = 10 #+ ((80 - proc) / 5.0);
 	if(proc >= 80):
-		score = 12 + ((85 - proc) / 5.0);
+		score = 11 #+ ((85 - proc) / 5.0);
 	if(proc >= 85):
-		score = 14 + ((90 - proc) / 5.0);
+		score = 12 #+ ((90 - proc) / 5.0);
 	if(proc >= 90):
-		score = 16 + ((95 - proc) / 5.0);
+		score = 14 #+ ((95 - proc) / 5.0);
 	if(proc >= 95):
-		score = 18 + ((100 - proc) / 5.0);
+		score = 16 #+ ((100 - proc) / 5.0);
 	if(proc >= 100):
-		score = 20
+		score = 18
 
 	return dict(procurement=proc,procurement_score=round(score,1));
 
@@ -307,18 +320,18 @@ for row in rows:
 	cm_total = row['meeting_score'] + row['attendance_score'] + row['meeting_score2']
 	gf_total = row['tax_score'] + row['taxes_forecast_score'] + row['procurement_score']
 
-	ob = {"label": "COMPÉTENCE MUNICIPALE 2013/14", "year": "2013/14", "commune": row['commune'], "total_points": mm_total + cm_total + gf_total, "max_points": 100, "items":[
+	ob = {"label": "COMPÉTENCE MUNICIPALE 2013/14", "year": "2013/14", "commune": row['commune'], "total_points": mm_total + cm_total + gf_total, "max_points": 86, "items":[
 
 				{"label": "MAIRIE/SERVICES MUNICIPAUX", "points": mm_total, "max_points": 10, "personnel": row['personnel']},
-				{"label": "CONSEIL MUNICIPAL", "points": cm_total, "max_points": 30, "items": [
-					{"label": "Nombre de sessions du Conseil\nMunicipal tenues en 2013", "value": row['meetings_held'], "score": row['meeting_score'], "points": [0,5,10], "scale_marks": [0,2,4]},
+				{"label": "CONSEIL MUNICIPAL", "points": cm_total, "max_points": 23, "items": [
+					{"label": "Nombre de sessions du Conseil\nMunicipal tenues en 2013", "value": row['meetings_held'], "score": row['meeting_score'], "points": [0,2,5], "scale_marks": [0,2,4]},
 					{"label": "Taux de participation aux réunions\nordinaires du Conseil Municipal (%)", "value": row['average_attendance'], "score": row['attendance_score'], "points": [0,1,4,6,8,10], "scale_marks": [20,40,60,80,90,100]},
-					{"label": "Nombre de cadre de concertations\norganisés par la mairie en 2013", "value": row['meetings_held2'], "score": row['meeting_score2'], "points": [0,4,6,8,10], "scale_marks": [0,1,2,3,4]}
+					{"label": "Nombre de cadre de concertations\norganisés par la mairie en 2013", "value": row['meetings_held2'], "score": row['meeting_score2'], "points": [0,2,4,6,8], "scale_marks": [0,1,2,3,4]}
 				]},
-				{"label": "GESTION FINANCIERE", "points": gf_total, "max_points": 60, "items": [
-					{"label": "Taux du recouvrement des taxes\nen fonction de la population de la\ncommune en 2013 (FCFA/personne)", "value": row['tax_raised'], "score": row['tax_score'], "points": [0,5,10,15,30], "scale_marks": [50,1000,2200,4500,7500]},
+				{"label": "GESTION FINANCIERE", "points": gf_total, "max_points": 53, "items": [
+					{"label": "Recettes fiscales collectées par\nla commune en 2013, en fonction\nde la population (FCFA/habitant)", "value": row['tax_raised'], "score": row['tax_score'], "points": [0,10,15,25], "scale_marks": [50,2200,4500,7500]},
 					{"label": "Taux du recouvrement de taxes en\n2013 en fonction des prévisions (%)", "value": row['taxes_forecast'], "score": row['taxes_forecast_score'], "points": [0,2,4,6,8,10], "scale_marks": [50,60,70,80,90,100]},
-					{"label": "Taux d’exécution du plan de\npassation des marchés au\ncours de 2013 (%)", "value": row['procurement'], "score": row['procurement_score'], "points": [0,1,4,7,12,20], "scale_marks": [0,20,40,60,80,100]}
+					{"label": "Taux d’exécution du plan de\npassation des marchés au\ncours de 2013 (%)", "value": row['procurement'], "score": row['procurement_score'], "points": [0,1,4,7,12,16], "scale_marks": [0,20,40,60,80,100]}
 				]}
 
 			]}

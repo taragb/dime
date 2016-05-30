@@ -5,12 +5,12 @@ import csv, json, os, time
 import pandas as pd
 import numpy as np
 
-ecole = pd.read_csv("data_files/Directeur_ecole_modifie_consolidated.csv");
-sanitaire = pd.read_csv("data_files/District_sanitaire_modifie_consolidated_v2.csv");
+ecole = pd.read_csv("data_files/Directeur_ecole_modifie_consolidated_ss.csv");
+sanitaire = pd.read_csv("data_files/District_sanitaire_modifie_consolidated_v2_ss.csv");
 
-ceb = pd.read_csv("data_files/CEB_modifie_consolidated.csv");
-water_access = pd.read_csv("data_files/water_access.csv");
-muni = pd.read_csv("data_files/questionnaire.csv");
+ceb = pd.read_csv("data_files/CEB_modifie_consolidated_ss.csv");
+water_access = pd.read_csv("data_files/water_access_ss.csv");
+muni = pd.read_csv("data_files/questionnaire_ss.csv");
 
 # schools with a latrine for each class/ total schools 
 
