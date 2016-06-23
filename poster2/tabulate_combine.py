@@ -41,7 +41,7 @@ fw = ecole_group['sum'] / ecole_group['count']
 
 #supplies recieved Weeks before or after start of school year 
 
-def supplies_recieved(row):
+def supplies_recieved(row): #TARA
 	#print row['sd_a_03-year_month_received_school_supplies']
 	t = time.strptime(row['sd_a_03-year_month_received_school_supplies'], "%d-%b-%y")
 	week_month = int(time.strftime("%m",t)) - 10
@@ -141,39 +141,43 @@ full['s_projected_births'] = full.apply(projected_births, axis=1)
 
 def passing_exam(row):
 	national_average = 65.2;
+	national_pct = .652
 	score = 0
-	calc = (float(row['passing_exam']) / national_average) - 1
+	calc = (float(row['passing_exam']) - national_pct)
 
 	if(calc <= -.4):
 		score = 0
-	if(calc <= -.35):
+	elif(calc <= -.35):
 		score = 1
-	if(calc <= -.30):
+	elif(calc <= -.30):
 		score = 2
-	if(calc <= -.25):
+	elif(calc <= -.25):
 		score = 3
-	if(calc <= -.2):
+	elif(calc <= -.2):
 		score = 4
-	if(calc <= -.15):
+	elif(calc <= -.15):
 		score = 5
-	if(calc <= -.1):
+	elif(calc <= -.1):
 		score = 6
-	if(calc <= -.05):
+	elif(calc <= -.05):
 		score = 7
-	if(calc > -0.05):
+	elif(calc <= .05):
 		score = 8
-	if(calc >= .05):
+	elif(calc <= .1):
 		score = 9
-	if(calc >= .1):
+	elif(calc <= .15):
 		score = 10
-	if(calc >= .15):
+	elif(calc <= .2):
 		score = 12
-	if(calc >= .2):
+	elif(calc <= .25):
 		score = 14
-	if(calc >= .25):
+	elif(calc <= .35):
 		score = 18
-	if(calc >= .35):
+	elif(calc > .35):
 		score = 20
+
+	if row['COMMUNE'] == 'ABSOUYA':
+		print calc, row['passing_exam'], score
 
 	return score
 
@@ -225,7 +229,6 @@ def latrines_score(row):
 full['s_latrines'] = full.apply(latrines_score, axis=1)
 
 
-#fixme I think this is wrong
 def supplies_score(row):
 	score = 0
 	calc = int(row['supplies_recieved'])
@@ -382,10 +385,10 @@ for row in tabulated:
 	ob = {"label": "COMPÉTENCE MUNICIPALE 2013/14", "year": "2013/14", "commune": row['COMMUNE'], "total_points": total_total, "max_points": 110, "items":[
 
 			{"label": "ÉCOLES PRIMAIRES", "points": ecoles_total, "max_points": 40, "items": [
-				{"label": "Taux d'Admission du CEP comparé à\nla moyenne nationale", "value": row['passing_exam'] * 100, "score": row['s_passing_exam'], "points": [0,4,8,14,20], "scale_marks": [-40,-20,0,20,35]},
-				{"label": "d'écoles recevant les fournitures\nscolaires avant le début de l'année\nscolaire 2013/2014", "value": row['supplies_recieved'] * 100, "score": row['s_supplies'], "points": [0,1,4,6,8,10], "scale_marks": [20,40,60,80,90,100]},
-				{"label": "d'écoles avec un forage fonctionnel", "value": row['access'] * 100, "score": row['s_water_access'], "points": [0,2,6,10,14,25], "scale_marks": [10,20,40,60,80,90,100]},
-				{"label": "d’écoles avec des latrines\nfonctionnelles pour chaque classe", "value": row['latrines_per_class'] * 100, "score": row['s_latrines'], "points": [0,3,6,10,15], "scale_marks": [25,40,60,80,100]}
+				{"label": "Écart entre le taux d'admission du\nCEP dans la commune et au niveau\nnational (en points de pourcentage)", "value": row['passing_exam'] * 100, "score": row['s_passing_exam'], "points": [0,4,8,14,18], "scale_marks": [-40,-20,0,20,35]},
+				{"label": "Retard moyen d'approvisionnement en\n fournitures scolaires (mesuré en nombre de\njours après la rentrée scolaire)", "value": row['supplies_recieved'] * 100, "score": row['s_supplies'], "points": [0,1,3,6,10], "scale_marks": [30,25,15,4,0]}, #FIX - TARA
+				{"label": "Taux d'écoles avec un forage fonctionnel", "value": row['access'] * 100, "score": row['s_water_access'], "points": [0,2,8,12,25], "scale_marks": [0,25,50,75,100]},
+				{"label": "Taux d’écoles avec des latrines\nfonctionnelles pour chaque classe", "value": row['latrines_per_class'] * 100, "score": row['s_latrines'], "points": [0,3,6,10,15], "scale_marks": [25,40,60,80,100]}
 			]},
 			{"label": "SANTÉ", "points": sante_total, "max_points": 40, "items": [
 				{"label": "d’accouchements assistés\npendant l’année", "value": row['assisted_births'] * 100, "score": row['s_assisted_births'], "points": [0,4,8,13,15], "scale_marks": [35,60,80,100,120]},

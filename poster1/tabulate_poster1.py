@@ -87,7 +87,6 @@ def meetings_held(row):
 	return dict(meetings_held=int(row['ic_a_03-ordinary_council_meetings']), meeting_score=score);
 
 # Average attendance for the meetings held in the year
-# FIXME - do I take the average of meetings attended or the overall average
 def average_attendance(row):
 	if( row['ic_a_04-councilor_attendance_meeting1'] == ''):
 		row['ic_a_04-councilor_attendance_meeting1'] = 0;

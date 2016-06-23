@@ -71,7 +71,7 @@ void setup(){
     sectionHeader(249, "ecoles.svg", sections.getJSONObject(0).getString("label"),sections.getJSONObject(0).getFloat("points"),sections.getJSONObject(0).getFloat("max_points"));
     sectionHeader(1156, "sante.svg", sections.getJSONObject(1).getString("label"),sections.getJSONObject(1).getFloat("points"),sections.getJSONObject(1).getFloat("max_points"));
     sectionHeader(1942, "water.svg", sections.getJSONObject(2).getString("label"),sections.getJSONObject(2).getFloat("points"),sections.getJSONObject(2).getFloat("max_points"));
-    sectionHeader(2306, "birth.svg", sections.getJSONObject(3).getString("label"),sections.getJSONObject(2).getFloat("points"),sections.getJSONObject(2).getFloat("max_points"));
+    sectionHeader(2306, "birth.svg", sections.getJSONObject(3).getString("label"),sections.getJSONObject(3).getFloat("points"),sections.getJSONObject(3).getFloat("max_points"));
     
     //ÉCOLES PRIMAIRES
     
@@ -86,7 +86,7 @@ void setup(){
     
     //% d'écoles recevant les fournitures scolaires avant le début de l'année scolaire 2013/2014
     jo = sections.getJSONObject(0).getJSONArray("items").getJSONObject(1);
-    scale(jo.getString("label"),
+    scaleBackward(jo.getString("label"),
       jo.getFloat("value"),
       jo.getFloat("score"),  
       jo.getJSONArray("points").getIntArray(), 
@@ -101,7 +101,8 @@ void setup(){
       jo.getJSONArray("points").getIntArray(), 
       jo.getJSONArray("scale_marks").getIntArray(),
       1086,854, "%");
-      
+    
+     
     //d’écoles avec des latrines fonctionnelles pour chaque classe
     jo = sections.getJSONObject(0).getJSONArray("items").getJSONObject(3);
     scale(jo.getString("label"),
@@ -208,7 +209,7 @@ void sectionHeader(int yPos, String iconPath, String title, float points, float 
   text("— " + points + "/" + max + " points", tw + 310, yPos + 60);
   
   //FIXME: Figure out the correct star mapping
-  stars(round(points/max * 5), yPos);
+  stars(int((points/max)/(.2)), yPos);
   
 }
 
@@ -235,6 +236,133 @@ void stars(int rating, int yPos){
     
   }
 }
+
+//Tara - edit
+void scaleBackward(String label, float value, float score, int[] points, int[] scaleMarks, int scaleX, int scaleY, String scaleUnit){
+  println("value: " + value);
+  int scaleHeight = 50;
+  int scaleWidth = 700;
+  
+  int startColor = color(235,180,158);
+  int endColor = primaryColor;
+  
+  int gap = 3;
+  
+  int min = scaleMarks[0];
+  int max = scaleMarks[scaleMarks.length - 1];
+  
+  float xPos = map(value, min, max, 0, scaleWidth);
+  if(xPos < 0){
+   xPos = 0; 
+  }
+  if(xPos > scaleWidth){
+   xPos = scaleWidth; 
+  }
+  
+  //scale divisions
+  for (int i = 0; i < points.length; i = i+1) {
+    fill(lerpColor(startColor,endColor, i / float(points.length)));
+    if(i < points.length - 1){
+      rect(map(scaleMarks[i], min, max, 0, scaleWidth) + scaleX,scaleY,(map(scaleMarks[i + 1], min, max, 0, scaleWidth) - map(scaleMarks[i], min, max, 0, scaleWidth)),scaleHeight);
+    }
+  }
+  
+  //gap lines
+  for (int i = 0; i < points.length; i = i+1) {
+    stroke(255);
+    strokeWeight(gap);
+    line(map(scaleMarks[i], min, max, 0, scaleWidth) + scaleX,scaleY,map(scaleMarks[i], min, max, 0, scaleWidth) + scaleX,scaleY + scaleHeight);
+  }
+  
+  //triangle mask
+  fill(255);
+  triangle(scaleWidth + scaleX,scaleY-2, scaleX,scaleY-2,scaleWidth + scaleX,(scaleHeight * 0.5) + scaleY);
+  triangle(scaleWidth + scaleX,(scaleHeight/2) + scaleY,scaleX,scaleHeight + scaleY+2, scaleWidth + scaleX,scaleHeight + scaleY+2);
+  //triangle(scaleX,scaleY - 2,scaleWidth + scaleX,scaleY - 2,scaleX,(scaleHeight * 0.5) + scaleY);
+  //triangle(scaleX,(scaleHeight/2) + scaleY,scaleWidth + scaleX,scaleHeight + scaleY + 2,scaleX,scaleHeight + scaleY + 2);
+  
+  
+  //marker
+  fill(highlightColor);
+  stroke(255);
+  strokeWeight(3);
+  ellipseMode(CENTER);
+  
+  //min = 30
+  //max = 0
+  
+  if(value > min){
+    value = min;
+  }
+  if (value < max){
+    value = max;
+  }
+  
+  
+  rect(xPos + scaleX - 6,scaleY - 30,12,scaleHeight + 50);
+  ellipse(xPos + scaleX,scaleY - 30,63,63);
+  ellipse(xPos + scaleX,scaleY + 80,63,63);
+  
+  fill(255);
+  textAlign(CENTER);
+
+  
+  textFont(boldFont);
+  textSize(32);
+  if(round(score) - score == 0){
+    text(round(score),xPos + scaleX,scaleY - 20);
+  }
+  else{
+    text(String.format("%.1f", score),xPos + scaleX,scaleY - 20);
+  }
+  
+  
+  textFont(lightFont);
+  textSize(32);
+  text(round(value),xPos + scaleX,scaleY + scaleHeight + 40);
+  
+  fill(0);
+  
+  //top labels (points)
+  textFont(boldFont);
+  textSize(32);
+  for (int i = 0; i < points.length; i = i+1) {
+    //blank out label if close to score
+    if(abs(value - scaleMarks[i]) > .1 * (max - min) && xPos + map(scaleMarks[i], min, max, 0, scaleWidth) != 0){
+      text(str(points[i]), map(scaleMarks[i], min, max, 0, scaleWidth) + scaleX, scaleY - 20);
+    }
+  }
+  text("pts.", scaleWidth + scaleX + 75, scaleY - 20);
+  
+  //bottom labels (scale marks)
+  textFont(lightFont);
+  textSize(32);
+  for (int i = 0; i < scaleMarks.length; i = i+1) {
+    
+    //blank out label if close to value
+    if(abs(value - scaleMarks[i]) > .1 * (max - min) && xPos + map(scaleMarks[i], min, max, 0, scaleWidth) != 0){
+       text(scaleMarks[i], map(scaleMarks[i], min, max, 0, scaleWidth) + scaleX, scaleY + scaleHeight + 40);
+    }
+  }
+  textAlign(LEFT);
+  text(scaleUnit, scaleWidth + scaleX + 30, scaleY + scaleHeight + 40);
+   
+  
+  // label
+  textAlign(RIGHT);
+  textFont(boldFont);
+  textSize(35);
+  
+  float textHeight = split(label, "\n").length * (textAscent() + textDescent());
+  
+  text(label, scaleX - 200, scaleY - (textHeight * 0.5) + 50);
+  
+  
+}
+
+
+
+
 
 //sS
 void scale(String label, float value, float score, int[] points, int[] scaleMarks, int scaleX, int scaleY, String scaleUnit){
