@@ -238,7 +238,7 @@
                             4,
                             0
                         ],
-                        "score": 2.0,
+                        "score": 1.0,
                         "points": [
                             0,
                             1,
@@ -289,7 +289,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 26.0,
+                "points": 25.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -411,7 +411,7 @@
         "max_points": 140,
         "stars": 2,
         "year": "2013/14",
-        "total_points": 67.0
+        "total_points": 66.0
     },
     {
         "commune": "ARIBINDA",
@@ -652,7 +652,7 @@
                             4,
                             0
                         ],
-                        "score": 8.0,
+                        "score": 7.0,
                         "points": [
                             0,
                             1,
@@ -703,7 +703,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 36.0,
+                "points": 35.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -751,7 +751,7 @@
                             80,
                             100
                         ],
-                        "score": 8.33333333,
+                        "score": 8.0,
                         "points": [
                             0,
                             5,
@@ -763,7 +763,7 @@
                     }
                 ],
                 "max_points": 40,
-                "points": 31.333333330000002,
+                "points": 31.0,
                 "label": "SANT\u00c9"
             },
             {
@@ -825,7 +825,7 @@
         "max_points": 140,
         "stars": 2,
         "year": "2013/14",
-        "total_points": 80.33333333
+        "total_points": 79.0
     },
     {
         "commune": "BANE",
@@ -958,7 +958,7 @@
                             80,
                             100
                         ],
-                        "score": 3.3333333300000003,
+                        "score": 3.0,
                         "points": [
                             0,
                             5,
@@ -970,7 +970,7 @@
                     }
                 ],
                 "max_points": 40,
-                "points": 21.333333330000002,
+                "points": 21.0,
                 "label": "SANT\u00c9"
             },
             {
@@ -1032,7 +1032,7 @@
         "max_points": 140,
         "stars": 2,
         "year": "2013/14",
-        "total_points": 63.33333333
+        "total_points": 63.0
     },
     {
         "commune": "BANFORA",
@@ -1066,7 +1066,7 @@
                             4,
                             0
                         ],
-                        "score": 4.0,
+                        "score": 3.0,
                         "points": [
                             0,
                             1,
@@ -1117,7 +1117,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 30.0,
+                "points": 29.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -1165,7 +1165,7 @@
                             80,
                             100
                         ],
-                        "score": 1.3333333299999999,
+                        "score": 1.0,
                         "points": [
                             0,
                             5,
@@ -1177,7 +1177,7 @@
                     }
                 ],
                 "max_points": 40,
-                "points": 15.33333333,
+                "points": 15.0,
                 "label": "SANT\u00c9"
             },
             {
@@ -1239,7 +1239,7 @@
         "max_points": 140,
         "stars": 2,
         "year": "2013/14",
-        "total_points": 60.33333333
+        "total_points": 59.0
     },
     {
         "commune": "BANI",
@@ -2101,7 +2101,7 @@
                             4,
                             0
                         ],
-                        "score": 8.0,
+                        "score": 7.0,
                         "points": [
                             0,
                             1,
@@ -2152,7 +2152,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 34.0,
+                "points": 33.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -2274,7 +2274,7 @@
         "max_points": 140,
         "stars": 2,
         "year": "2013/14",
-        "total_points": 82.0
+        "total_points": 81.0
     },
     {
         "commune": "BERE",
@@ -2308,7 +2308,7 @@
                             4,
                             0
                         ],
-                        "score": 8.0,
+                        "score": 7.0,
                         "points": [
                             0,
                             1,
@@ -2359,7 +2359,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 28.0,
+                "points": 27.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -2481,7 +2481,7 @@
         "max_points": 140,
         "stars": 1,
         "year": "2013/14",
-        "total_points": 43.0
+        "total_points": 42.0
     },
     {
         "commune": "BEREGADOUGOU",
@@ -2515,7 +2515,7 @@
                             4,
                             0
                         ],
-                        "score": 5.0,
+                        "score": 4.0,
                         "points": [
                             0,
                             1,
@@ -2566,7 +2566,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 24.0,
+                "points": 23.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -2688,7 +2688,7 @@
         "max_points": 140,
         "stars": 1,
         "year": "2013/14",
-        "total_points": 45.0
+        "total_points": 44.0
     },
     {
         "commune": "BINDE",
@@ -2722,7 +2722,7 @@
                             4,
                             0
                         ],
-                        "score": 6.0,
+                        "score": 5.0,
                         "points": [
                             0,
                             1,
@@ -2773,7 +2773,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 30.0,
+                "points": 29.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -2895,7 +2895,7 @@
         "max_points": 140,
         "stars": 2,
         "year": "2013/14",
-        "total_points": 60.0
+        "total_points": 59.0
     },
     {
         "commune": "BISSIGA",
@@ -3136,7 +3136,7 @@
                             4,
                             0
                         ],
-                        "score": 4.0,
+                        "score": 3.0,
                         "points": [
                             0,
                             1,
@@ -3187,7 +3187,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 24.0,
+                "points": 23.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -3309,7 +3309,7 @@
         "max_points": 140,
         "stars": 1,
         "year": "2013/14",
-        "total_points": 53.0
+        "total_points": 52.0
     },
     {
         "commune": "BOALA",
@@ -3550,7 +3550,7 @@
                             4,
                             0
                         ],
-                        "score": 5.0,
+                        "score": 4.0,
                         "points": [
                             0,
                             1,
@@ -3601,7 +3601,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 33.0,
+                "points": 32.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -3649,7 +3649,7 @@
                             80,
                             100
                         ],
-                        "score": 5.55555556,
+                        "score": 6.0,
                         "points": [
                             0,
                             5,
@@ -3661,7 +3661,7 @@
                     }
                 ],
                 "max_points": 40,
-                "points": 27.555555560000002,
+                "points": 28.0,
                 "label": "SANT\u00c9"
             },
             {
@@ -3723,7 +3723,7 @@
         "max_points": 140,
         "stars": 2,
         "year": "2013/14",
-        "total_points": 71.55555556
+        "total_points": 71.0
     },
     {
         "commune": "BOULSA",
@@ -4171,7 +4171,7 @@
                             4,
                             0
                         ],
-                        "score": 5.0,
+                        "score": 4.0,
                         "points": [
                             0,
                             1,
@@ -4222,7 +4222,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 43.0,
+                "points": 42.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -4344,7 +4344,7 @@
         "max_points": 140,
         "stars": 2,
         "year": "2013/14",
-        "total_points": 71.0
+        "total_points": 70.0
     },
     {
         "commune": "BOURZANGA",
@@ -4792,7 +4792,7 @@
                             4,
                             0
                         ],
-                        "score": 6.0,
+                        "score": 5.0,
                         "points": [
                             0,
                             1,
@@ -4843,7 +4843,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 33.0,
+                "points": 32.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -4965,7 +4965,7 @@
         "max_points": 140,
         "stars": 2,
         "year": "2013/14",
-        "total_points": 77.0
+        "total_points": 76.0
     },
     {
         "commune": "BOUSSOUMA (KAYA)",
@@ -4999,7 +4999,7 @@
                             4,
                             0
                         ],
-                        "score": 4.0,
+                        "score": 3.0,
                         "points": [
                             0,
                             1,
@@ -5050,7 +5050,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 29.0,
+                "points": 28.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -5172,7 +5172,7 @@
         "max_points": 140,
         "stars": 1,
         "year": "2013/14",
-        "total_points": 53.0
+        "total_points": 52.0
     },
     {
         "commune": "COMIN-YANGA",
@@ -5206,7 +5206,7 @@
                             4,
                             0
                         ],
-                        "score": 7.0,
+                        "score": 6.0,
                         "points": [
                             0,
                             1,
@@ -5257,7 +5257,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 26.0,
+                "points": 25.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -5379,7 +5379,7 @@
         "max_points": 140,
         "stars": 1,
         "year": "2013/14",
-        "total_points": 45.0
+        "total_points": 44.0
     },
     {
         "commune": "DABLO",
@@ -5827,7 +5827,7 @@
                             4,
                             0
                         ],
-                        "score": 7.0,
+                        "score": 6.0,
                         "points": [
                             0,
                             1,
@@ -5878,7 +5878,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 33.0,
+                "points": 32.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -6000,7 +6000,7 @@
         "max_points": 140,
         "stars": 2,
         "year": "2013/14",
-        "total_points": 61.0
+        "total_points": 60.0
     },
     {
         "commune": "DARGO",
@@ -6034,7 +6034,7 @@
                             4,
                             0
                         ],
-                        "score": 10.0,
+                        "score": 8.0,
                         "points": [
                             0,
                             1,
@@ -6085,7 +6085,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 44.0,
+                "points": 42.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -6207,7 +6207,7 @@
         "max_points": 140,
         "stars": 2,
         "year": "2013/14",
-        "total_points": 74.0
+        "total_points": 72.0
     },
     {
         "commune": "DEOU",
@@ -6241,7 +6241,7 @@
                             4,
                             0
                         ],
-                        "score": 6.0,
+                        "score": 5.0,
                         "points": [
                             0,
                             1,
@@ -6292,7 +6292,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 21.0,
+                "points": 20.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -6340,7 +6340,7 @@
                             80,
                             100
                         ],
-                        "score": 3.3333333300000003,
+                        "score": 3.0,
                         "points": [
                             0,
                             5,
@@ -6352,7 +6352,7 @@
                     }
                 ],
                 "max_points": 40,
-                "points": 14.33333333,
+                "points": 14.0,
                 "label": "SANT\u00c9"
             },
             {
@@ -6414,7 +6414,7 @@
         "max_points": 140,
         "stars": 1,
         "year": "2013/14",
-        "total_points": 38.33333333
+        "total_points": 37.0
     },
     {
         "commune": "DIALGAYE",
@@ -6448,7 +6448,7 @@
                             4,
                             0
                         ],
-                        "score": 8.0,
+                        "score": 7.0,
                         "points": [
                             0,
                             1,
@@ -6499,7 +6499,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 36.0,
+                "points": 35.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -6547,7 +6547,7 @@
                             80,
                             100
                         ],
-                        "score": 7.5,
+                        "score": 8.0,
                         "points": [
                             0,
                             5,
@@ -6559,7 +6559,7 @@
                     }
                 ],
                 "max_points": 40,
-                "points": 21.5,
+                "points": 22.0,
                 "label": "SANT\u00c9"
             },
             {
@@ -6621,7 +6621,7 @@
         "max_points": 140,
         "stars": 2,
         "year": "2013/14",
-        "total_points": 73.5
+        "total_points": 73.0
     },
     {
         "commune": "DIGUEL ",
@@ -6655,7 +6655,7 @@
                             4,
                             0
                         ],
-                        "score": 5.0,
+                        "score": 4.0,
                         "points": [
                             0,
                             1,
@@ -6706,7 +6706,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 9.0,
+                "points": 8.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -6828,7 +6828,7 @@
         "max_points": 140,
         "stars": 0,
         "year": "2013/14",
-        "total_points": 26.0
+        "total_points": 25.0
     },
     {
         "commune": "DJIBO",
@@ -6862,7 +6862,7 @@
                             4,
                             0
                         ],
-                        "score": 8.0,
+                        "score": 7.0,
                         "points": [
                             0,
                             1,
@@ -6913,7 +6913,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 27.0,
+                "points": 26.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -7035,7 +7035,7 @@
         "max_points": 140,
         "stars": 2,
         "year": "2013/14",
-        "total_points": 58.0
+        "total_points": 57.0
     },
     {
         "commune": "DORI",
@@ -7069,7 +7069,7 @@
                             4,
                             0
                         ],
-                        "score": 5.0,
+                        "score": 4.0,
                         "points": [
                             0,
                             1,
@@ -7120,7 +7120,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 25.0,
+                "points": 24.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -7168,7 +7168,7 @@
                             80,
                             100
                         ],
-                        "score": 5.55555556,
+                        "score": 6.0,
                         "points": [
                             0,
                             5,
@@ -7180,7 +7180,7 @@
                     }
                 ],
                 "max_points": 40,
-                "points": 20.555555560000002,
+                "points": 21.0,
                 "label": "SANT\u00c9"
             },
             {
@@ -7242,7 +7242,7 @@
         "max_points": 140,
         "stars": 2,
         "year": "2013/14",
-        "total_points": 57.55555556
+        "total_points": 57.0
     },
     {
         "commune": "DOULOUGOU",
@@ -7897,7 +7897,7 @@
                             4,
                             0
                         ],
-                        "score": 6.0,
+                        "score": 5.0,
                         "points": [
                             0,
                             1,
@@ -7948,7 +7948,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 31.0,
+                "points": 30.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -8070,7 +8070,7 @@
         "max_points": 140,
         "stars": 2,
         "year": "2013/14",
-        "total_points": 70.0
+        "total_points": 69.0
     },
     {
         "commune": "GAONGO",
@@ -8617,7 +8617,7 @@
                             80,
                             100
                         ],
-                        "score": 6.66666667,
+                        "score": 7.0,
                         "points": [
                             0,
                             5,
@@ -8629,7 +8629,7 @@
                     }
                 ],
                 "max_points": 40,
-                "points": 22.666666669999998,
+                "points": 23.0,
                 "label": "SANT\u00c9"
             },
             {
@@ -8691,7 +8691,7 @@
         "max_points": 140,
         "stars": 2,
         "year": "2013/14",
-        "total_points": 57.66666667
+        "total_points": 58.0
     },
     {
         "commune": "GOMBOUSSOUGOU",
@@ -8725,7 +8725,7 @@
                             4,
                             0
                         ],
-                        "score": 7.0,
+                        "score": 6.0,
                         "points": [
                             0,
                             1,
@@ -8776,7 +8776,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 30.0,
+                "points": 29.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -8898,7 +8898,7 @@
         "max_points": 140,
         "stars": 2,
         "year": "2013/14",
-        "total_points": 73.0
+        "total_points": 72.0
     },
     {
         "commune": "GORGADJI",
@@ -8932,7 +8932,7 @@
                             4,
                             0
                         ],
-                        "score": 5.0,
+                        "score": 4.0,
                         "points": [
                             0,
                             1,
@@ -8983,7 +8983,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 23.0,
+                "points": 22.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -9105,7 +9105,7 @@
         "max_points": 140,
         "stars": 1,
         "year": "2013/14",
-        "total_points": 42.0
+        "total_points": 41.0
     },
     {
         "commune": "GOROM-GOROM",
@@ -9346,7 +9346,7 @@
                             4,
                             0
                         ],
-                        "score": 5.0,
+                        "score": 4.0,
                         "points": [
                             0,
                             1,
@@ -9397,7 +9397,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 30.0,
+                "points": 29.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -9445,7 +9445,7 @@
                             80,
                             100
                         ],
-                        "score": 7.5,
+                        "score": 8.0,
                         "points": [
                             0,
                             5,
@@ -9457,7 +9457,7 @@
                     }
                 ],
                 "max_points": 40,
-                "points": 22.5,
+                "points": 23.0,
                 "label": "SANT\u00c9"
             },
             {
@@ -9519,7 +9519,7 @@
         "max_points": 140,
         "stars": 2,
         "year": "2013/14",
-        "total_points": 76.5
+        "total_points": 76.0
     },
     {
         "commune": "GUIARO",
@@ -9652,7 +9652,7 @@
                             80,
                             100
                         ],
-                        "score": 6.66666667,
+                        "score": 7.0,
                         "points": [
                             0,
                             5,
@@ -9664,7 +9664,7 @@
                     }
                 ],
                 "max_points": 40,
-                "points": 29.666666669999998,
+                "points": 30.0,
                 "label": "SANT\u00c9"
             },
             {
@@ -9726,7 +9726,7 @@
         "max_points": 140,
         "stars": 2,
         "year": "2013/14",
-        "total_points": 67.66666667
+        "total_points": 68.0
     },
     {
         "commune": "GUIBA",
@@ -9760,7 +9760,7 @@
                             4,
                             0
                         ],
-                        "score": 7.0,
+                        "score": 6.0,
                         "points": [
                             0,
                             1,
@@ -9811,7 +9811,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 36.0,
+                "points": 35.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -9933,7 +9933,7 @@
         "max_points": 140,
         "stars": 2,
         "year": "2013/14",
-        "total_points": 67.0
+        "total_points": 66.0
     },
     {
         "commune": "GUIBARE",
@@ -9967,7 +9967,7 @@
                             4,
                             0
                         ],
-                        "score": 10.0,
+                        "score": 8.0,
                         "points": [
                             0,
                             1,
@@ -10018,7 +10018,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 33.0,
+                "points": 31.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -10066,7 +10066,7 @@
                             80,
                             100
                         ],
-                        "score": 1.4285714300000003,
+                        "score": 1.0,
                         "points": [
                             0,
                             5,
@@ -10078,7 +10078,7 @@
                     }
                 ],
                 "max_points": 40,
-                "points": 29.42857143,
+                "points": 29.0,
                 "label": "SANT\u00c9"
             },
             {
@@ -10140,7 +10140,7 @@
         "max_points": 140,
         "stars": 2,
         "year": "2013/14",
-        "total_points": 80.42857143
+        "total_points": 78.0
     },
     {
         "commune": "IPELCE",
@@ -10381,7 +10381,7 @@
                             4,
                             0
                         ],
-                        "score": 1.0,
+                        "score": 0.0,
                         "points": [
                             0,
                             1,
@@ -10432,7 +10432,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 29.0,
+                "points": 28.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -10554,7 +10554,7 @@
         "max_points": 140,
         "stars": 2,
         "year": "2013/14",
-        "total_points": 58.0
+        "total_points": 57.0
     },
     {
         "commune": "KANKALABA",
@@ -10588,7 +10588,7 @@
                             4,
                             0
                         ],
-                        "score": 5.0,
+                        "score": 4.0,
                         "points": [
                             0,
                             1,
@@ -10639,7 +10639,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 21.0,
+                "points": 20.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -10761,7 +10761,7 @@
         "max_points": 140,
         "stars": 1,
         "year": "2013/14",
-        "total_points": 46.0
+        "total_points": 45.0
     },
     {
         "commune": "KAYA",
@@ -10795,7 +10795,7 @@
                             4,
                             0
                         ],
-                        "score": 7.0,
+                        "score": 6.0,
                         "points": [
                             0,
                             1,
@@ -10846,7 +10846,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 33.0,
+                "points": 32.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -10968,7 +10968,7 @@
         "max_points": 140,
         "stars": 2,
         "year": "2013/14",
-        "total_points": 59.0
+        "total_points": 58.0
     },
     {
         "commune": "KAYAO",
@@ -11002,7 +11002,7 @@
                             4,
                             0
                         ],
-                        "score": 5.0,
+                        "score": 4.0,
                         "points": [
                             0,
                             1,
@@ -11053,7 +11053,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 29.0,
+                "points": 28.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -11175,7 +11175,7 @@
         "max_points": 140,
         "stars": 1,
         "year": "2013/14",
-        "total_points": 51.0
+        "total_points": 50.0
     },
     {
         "commune": "KELBO",
@@ -11209,7 +11209,7 @@
                             4,
                             0
                         ],
-                        "score": 5.0,
+                        "score": 4.0,
                         "points": [
                             0,
                             1,
@@ -11260,7 +11260,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 20.0,
+                "points": 19.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -11382,7 +11382,7 @@
         "max_points": 140,
         "stars": 1,
         "year": "2013/14",
-        "total_points": 50.0
+        "total_points": 49.0
     },
     {
         "commune": "KOGHO",
@@ -11416,7 +11416,7 @@
                             4,
                             0
                         ],
-                        "score": 3.0,
+                        "score": 2.0,
                         "points": [
                             0,
                             1,
@@ -11467,7 +11467,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 21.0,
+                "points": 20.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -11589,7 +11589,7 @@
         "max_points": 140,
         "stars": 1,
         "year": "2013/14",
-        "total_points": 48.0
+        "total_points": 47.0
     },
     {
         "commune": "KOMBISSIRI",
@@ -11623,7 +11623,7 @@
                             4,
                             0
                         ],
-                        "score": 4.0,
+                        "score": 3.0,
                         "points": [
                             0,
                             1,
@@ -11674,7 +11674,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 19.0,
+                "points": 18.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -11794,9 +11794,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 140,
-        "stars": 2,
+        "stars": 1,
         "year": "2013/14",
-        "total_points": 56.0
+        "total_points": 55.0
     },
     {
         "commune": "KOMTOEGA",
@@ -12037,7 +12037,7 @@
                             4,
                             0
                         ],
-                        "score": 8.0,
+                        "score": 7.0,
                         "points": [
                             0,
                             1,
@@ -12088,7 +12088,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 33.0,
+                "points": 32.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -12210,7 +12210,7 @@
         "max_points": 140,
         "stars": 2,
         "year": "2013/14",
-        "total_points": 78.0
+        "total_points": 77.0
     },
     {
         "commune": "KORSIMORO",
@@ -12343,7 +12343,7 @@
                             80,
                             100
                         ],
-                        "score": 1.4285714300000003,
+                        "score": 1.0,
                         "points": [
                             0,
                             5,
@@ -12355,7 +12355,7 @@
                     }
                 ],
                 "max_points": 40,
-                "points": 12.42857143,
+                "points": 12.0,
                 "label": "SANT\u00c9"
             },
             {
@@ -12417,7 +12417,7 @@
         "max_points": 140,
         "stars": 1,
         "year": "2013/14",
-        "total_points": 44.42857143
+        "total_points": 44.0
     },
     {
         "commune": "KOUPELA",
@@ -12550,7 +12550,7 @@
                             80,
                             100
                         ],
-                        "score": 6.66666667,
+                        "score": 7.0,
                         "points": [
                             0,
                             5,
@@ -12562,7 +12562,7 @@
                     }
                 ],
                 "max_points": 40,
-                "points": 31.666666669999998,
+                "points": 32.0,
                 "label": "SANT\u00c9"
             },
             {
@@ -12624,7 +12624,7 @@
         "max_points": 140,
         "stars": 2,
         "year": "2013/14",
-        "total_points": 83.66666667
+        "total_points": 84.0
     },
     {
         "commune": "KOUTOUGOU",
@@ -12658,7 +12658,7 @@
                             4,
                             0
                         ],
-                        "score": 3.0,
+                        "score": 2.0,
                         "points": [
                             0,
                             1,
@@ -12709,7 +12709,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 33.0,
+                "points": 32.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -12831,7 +12831,7 @@
         "max_points": 140,
         "stars": 1,
         "year": "2013/14",
-        "total_points": 46.0
+        "total_points": 45.0
     },
     {
         "commune": "LALGAYE",
@@ -13378,7 +13378,7 @@
                             80,
                             100
                         ],
-                        "score": 2.8571428600000006,
+                        "score": 3.0,
                         "points": [
                             0,
                             5,
@@ -13390,7 +13390,7 @@
                     }
                 ],
                 "max_points": 40,
-                "points": 25.85714286,
+                "points": 26.0,
                 "label": "SANT\u00c9"
             },
             {
@@ -13452,7 +13452,7 @@
         "max_points": 140,
         "stars": 1,
         "year": "2013/14",
-        "total_points": 52.857142859999996
+        "total_points": 53.0
     },
     {
         "commune": "LOUMBILA",
@@ -13693,7 +13693,7 @@
                             4,
                             0
                         ],
-                        "score": 8.0,
+                        "score": 7.0,
                         "points": [
                             0,
                             1,
@@ -13744,7 +13744,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 36.0,
+                "points": 35.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -13866,7 +13866,7 @@
         "max_points": 140,
         "stars": 2,
         "year": "2013/14",
-        "total_points": 61.0
+        "total_points": 60.0
     },
     {
         "commune": "MANGA",
@@ -13900,7 +13900,7 @@
                             4,
                             0
                         ],
-                        "score": 3.0,
+                        "score": 2.0,
                         "points": [
                             0,
                             1,
@@ -13951,7 +13951,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 29.0,
+                "points": 28.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -13999,7 +13999,7 @@
                             80,
                             100
                         ],
-                        "score": 5.71428571,
+                        "score": 6.0,
                         "points": [
                             0,
                             5,
@@ -14011,7 +14011,7 @@
                     }
                 ],
                 "max_points": 40,
-                "points": 17.71428571,
+                "points": 18.0,
                 "label": "SANT\u00c9"
             },
             {
@@ -14073,7 +14073,7 @@
         "max_points": 140,
         "stars": 2,
         "year": "2013/14",
-        "total_points": 66.71428571
+        "total_points": 66.0
     },
     {
         "commune": "MANGODARA",
@@ -14206,7 +14206,7 @@
                             80,
                             100
                         ],
-                        "score": 2.5,
+                        "score": 3.0,
                         "points": [
                             0,
                             5,
@@ -14218,7 +14218,7 @@
                     }
                 ],
                 "max_points": 40,
-                "points": 23.5,
+                "points": 24.0,
                 "label": "SANT\u00c9"
             },
             {
@@ -14280,7 +14280,7 @@
         "max_points": 140,
         "stars": 1,
         "year": "2013/14",
-        "total_points": 48.5
+        "total_points": 49.0
     },
     {
         "commune": "MANSILA",
@@ -14521,7 +14521,7 @@
                             4,
                             0
                         ],
-                        "score": 5.0,
+                        "score": 4.0,
                         "points": [
                             0,
                             1,
@@ -14572,7 +14572,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 19.0,
+                "points": 18.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -14694,7 +14694,7 @@
         "max_points": 140,
         "stars": 1,
         "year": "2013/14",
-        "total_points": 36.0
+        "total_points": 35.0
     },
     {
         "commune": "MEGUET",
@@ -14728,7 +14728,7 @@
                             4,
                             0
                         ],
-                        "score": 8.0,
+                        "score": 7.0,
                         "points": [
                             0,
                             1,
@@ -14779,7 +14779,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 34.0,
+                "points": 33.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -14901,7 +14901,7 @@
         "max_points": 140,
         "stars": 2,
         "year": "2013/14",
-        "total_points": 74.0
+        "total_points": 73.0
     },
     {
         "commune": "MOGTEDO",
@@ -15034,7 +15034,7 @@
                             80,
                             100
                         ],
-                        "score": 6.66666667,
+                        "score": 7.0,
                         "points": [
                             0,
                             5,
@@ -15046,7 +15046,7 @@
                     }
                 ],
                 "max_points": 40,
-                "points": 28.666666669999998,
+                "points": 29.0,
                 "label": "SANT\u00c9"
             },
             {
@@ -15108,7 +15108,7 @@
         "max_points": 140,
         "stars": 2,
         "year": "2013/14",
-        "total_points": 58.66666667
+        "total_points": 59.0
     },
     {
         "commune": "MOUSSODOUGOU",
@@ -15142,7 +15142,7 @@
                             4,
                             0
                         ],
-                        "score": 5.0,
+                        "score": 4.0,
                         "points": [
                             0,
                             1,
@@ -15193,7 +15193,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 25.0,
+                "points": 24.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -15315,7 +15315,7 @@
         "max_points": 140,
         "stars": 1,
         "year": "2013/14",
-        "total_points": 52.0
+        "total_points": 51.0
     },
     {
         "commune": "NAGBINGOU",
@@ -15349,7 +15349,7 @@
                             4,
                             0
                         ],
-                        "score": 3.0,
+                        "score": 2.0,
                         "points": [
                             0,
                             1,
@@ -15400,7 +15400,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 32.0,
+                "points": 31.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -15520,9 +15520,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 140,
-        "stars": 2,
+        "stars": 1,
         "year": "2013/14",
-        "total_points": 56.0
+        "total_points": 55.0
     },
     {
         "commune": "NAGREONGO",
@@ -16177,7 +16177,7 @@
                             4,
                             0
                         ],
-                        "score": 5.0,
+                        "score": 4.0,
                         "points": [
                             0,
                             1,
@@ -16228,7 +16228,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 28.0,
+                "points": 27.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -16350,7 +16350,7 @@
         "max_points": 140,
         "stars": 1,
         "year": "2013/14",
-        "total_points": 49.0
+        "total_points": 48.0
     },
     {
         "commune": "NIANGOLOKO",
@@ -17212,7 +17212,7 @@
                             4,
                             0
                         ],
-                        "score": 1.0,
+                        "score": 0.0,
                         "points": [
                             0,
                             1,
@@ -17263,7 +17263,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 22.0,
+                "points": 21.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -17385,7 +17385,7 @@
         "max_points": 140,
         "stars": 1,
         "year": "2013/14",
-        "total_points": 44.0
+        "total_points": 43.0
     },
     {
         "commune": "OUARGAYE",
@@ -17518,7 +17518,7 @@
                             80,
                             100
                         ],
-                        "score": 2.5,
+                        "score": 3.0,
                         "points": [
                             0,
                             5,
@@ -17530,7 +17530,7 @@
                     }
                 ],
                 "max_points": 40,
-                "points": 18.5,
+                "points": 19.0,
                 "label": "SANT\u00c9"
             },
             {
@@ -17592,7 +17592,7 @@
         "max_points": 140,
         "stars": 2,
         "year": "2013/14",
-        "total_points": 56.5
+        "total_points": 57.0
     },
     {
         "commune": "OUELENI",
@@ -17833,7 +17833,7 @@
                             4,
                             0
                         ],
-                        "score": 2.0,
+                        "score": 1.0,
                         "points": [
                             0,
                             1,
@@ -17884,7 +17884,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 17.0,
+                "points": 16.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -18006,7 +18006,7 @@
         "max_points": 140,
         "stars": 1,
         "year": "2013/14",
-        "total_points": 47.0
+        "total_points": 46.0
     },
     {
         "commune": "OURGOU-MANEGA",
@@ -18868,7 +18868,7 @@
                             4,
                             0
                         ],
-                        "score": 8.0,
+                        "score": 7.0,
                         "points": [
                             0,
                             1,
@@ -18919,7 +18919,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 33.0,
+                "points": 32.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -19041,7 +19041,7 @@
         "max_points": 140,
         "stars": 2,
         "year": "2013/14",
-        "total_points": 63.0
+        "total_points": 62.0
     },
     {
         "commune": "PO",
@@ -19075,7 +19075,7 @@
                             4,
                             0
                         ],
-                        "score": 8.0,
+                        "score": 7.0,
                         "points": [
                             0,
                             1,
@@ -19126,7 +19126,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 21.0,
+                "points": 20.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -19174,7 +19174,7 @@
                             80,
                             100
                         ],
-                        "score": 1.4285714300000003,
+                        "score": 1.0,
                         "points": [
                             0,
                             5,
@@ -19186,7 +19186,7 @@
                     }
                 ],
                 "max_points": 40,
-                "points": 14.42857143,
+                "points": 14.0,
                 "label": "SANT\u00c9"
             },
             {
@@ -19248,7 +19248,7 @@
         "max_points": 140,
         "stars": 1,
         "year": "2013/14",
-        "total_points": 50.42857143
+        "total_points": 49.0
     },
     {
         "commune": "POBE-MENGAO",
@@ -19696,7 +19696,7 @@
                             4,
                             0
                         ],
-                        "score": 8.0,
+                        "score": 7.0,
                         "points": [
                             0,
                             1,
@@ -19747,7 +19747,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 36.0,
+                "points": 35.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -19869,7 +19869,7 @@
         "max_points": 140,
         "stars": 2,
         "year": "2013/14",
-        "total_points": 74.0
+        "total_points": 73.0
     },
     {
         "commune": "ROUKO",
@@ -20524,7 +20524,7 @@
                             4,
                             0
                         ],
-                        "score": 6.0,
+                        "score": 5.0,
                         "points": [
                             0,
                             1,
@@ -20575,7 +20575,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 26.0,
+                "points": 25.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -20697,7 +20697,7 @@
         "max_points": 140,
         "stars": 2,
         "year": "2013/14",
-        "total_points": 57.0
+        "total_points": 56.0
     },
     {
         "commune": "SANGA",
@@ -20731,7 +20731,7 @@
                             4,
                             0
                         ],
-                        "score": 4.0,
+                        "score": 3.0,
                         "points": [
                             0,
                             1,
@@ -20782,7 +20782,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 27.0,
+                "points": 26.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -20830,7 +20830,7 @@
                             80,
                             100
                         ],
-                        "score": 6.66666667,
+                        "score": 7.0,
                         "points": [
                             0,
                             5,
@@ -20842,7 +20842,7 @@
                     }
                 ],
                 "max_points": 40,
-                "points": 15.66666667,
+                "points": 16.0,
                 "label": "SANT\u00c9"
             },
             {
@@ -20904,7 +20904,7 @@
         "max_points": 140,
         "stars": 1,
         "year": "2013/14",
-        "total_points": 50.66666667
+        "total_points": 50.0
     },
     {
         "commune": "SAPONE",
@@ -21145,7 +21145,7 @@
                             4,
                             0
                         ],
-                        "score": 8.0,
+                        "score": 7.0,
                         "points": [
                             0,
                             1,
@@ -21196,7 +21196,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 23.0,
+                "points": 22.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -21318,7 +21318,7 @@
         "max_points": 140,
         "stars": 2,
         "year": "2013/14",
-        "total_points": 58.0
+        "total_points": 57.0
     },
     {
         "commune": "SEYTENGA",
@@ -21559,7 +21559,7 @@
                             4,
                             0
                         ],
-                        "score": 2.0,
+                        "score": 1.0,
                         "points": [
                             0,
                             1,
@@ -21610,7 +21610,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 12.0,
+                "points": 11.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -21732,7 +21732,7 @@
         "max_points": 140,
         "stars": 1,
         "year": "2013/14",
-        "total_points": 45.0
+        "total_points": 44.0
     },
     {
         "commune": "SINDOU",
@@ -21766,7 +21766,7 @@
                             4,
                             0
                         ],
-                        "score": 5.0,
+                        "score": 4.0,
                         "points": [
                             0,
                             1,
@@ -21817,7 +21817,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 25.0,
+                "points": 24.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -21939,7 +21939,7 @@
         "max_points": 140,
         "stars": 1,
         "year": "2013/14",
-        "total_points": 40.0
+        "total_points": 39.0
     },
     {
         "commune": "SOLHAN",
@@ -22180,7 +22180,7 @@
                             4,
                             0
                         ],
-                        "score": 5.0,
+                        "score": 4.0,
                         "points": [
                             0,
                             1,
@@ -22231,7 +22231,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 19.0,
+                "points": 18.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -22279,7 +22279,7 @@
                             80,
                             100
                         ],
-                        "score": 2.5,
+                        "score": 3.0,
                         "points": [
                             0,
                             5,
@@ -22291,7 +22291,7 @@
                     }
                 ],
                 "max_points": 40,
-                "points": 20.5,
+                "points": 21.0,
                 "label": "SANT\u00c9"
             },
             {
@@ -22353,7 +22353,7 @@
         "max_points": 140,
         "stars": 1,
         "year": "2013/14",
-        "total_points": 50.5
+        "total_points": 50.0
     },
     {
         "commune": "SOUDOUGUI",
@@ -22801,7 +22801,7 @@
                             4,
                             0
                         ],
-                        "score": 8.0,
+                        "score": 7.0,
                         "points": [
                             0,
                             1,
@@ -22852,7 +22852,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 28.0,
+                "points": 27.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -22974,7 +22974,7 @@
         "max_points": 140,
         "stars": 2,
         "year": "2013/14",
-        "total_points": 63.0
+        "total_points": 62.0
     },
     {
         "commune": "TENKODOGO",
@@ -23008,7 +23008,7 @@
                             4,
                             0
                         ],
-                        "score": 3.0,
+                        "score": 2.0,
                         "points": [
                             0,
                             1,
@@ -23059,7 +23059,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 32.0,
+                "points": 31.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -23181,7 +23181,7 @@
         "max_points": 140,
         "stars": 2,
         "year": "2013/14",
-        "total_points": 59.0
+        "total_points": 58.0
     },
     {
         "commune": "TENSOBENTENGA",
@@ -23422,7 +23422,7 @@
                             4,
                             0
                         ],
-                        "score": 8.0,
+                        "score": 7.0,
                         "points": [
                             0,
                             1,
@@ -23473,7 +23473,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 27.0,
+                "points": 26.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -23595,7 +23595,7 @@
         "max_points": 140,
         "stars": 1,
         "year": "2013/14",
-        "total_points": 49.0
+        "total_points": 48.0
     },
     {
         "commune": "TIEFORA",
@@ -23836,7 +23836,7 @@
                             4,
                             0
                         ],
-                        "score": 5.0,
+                        "score": 4.0,
                         "points": [
                             0,
                             1,
@@ -23887,7 +23887,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 31.0,
+                "points": 30.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -24009,7 +24009,7 @@
         "max_points": 140,
         "stars": 2,
         "year": "2013/14",
-        "total_points": 76.0
+        "total_points": 75.0
     },
     {
         "commune": "TIN-AKOFF",
@@ -24043,7 +24043,7 @@
                             4,
                             0
                         ],
-                        "score": 5.0,
+                        "score": 4.0,
                         "points": [
                             0,
                             1,
@@ -24094,7 +24094,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 12.0,
+                "points": 11.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -24216,7 +24216,7 @@
         "max_points": 140,
         "stars": 0,
         "year": "2013/14",
-        "total_points": 22.0
+        "total_points": 21.0
     },
     {
         "commune": "TITABE",
@@ -24250,7 +24250,7 @@
                             4,
                             0
                         ],
-                        "score": 2.0,
+                        "score": 1.0,
                         "points": [
                             0,
                             1,
@@ -24301,7 +24301,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 22.0,
+                "points": 21.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -24423,7 +24423,7 @@
         "max_points": 140,
         "stars": 1,
         "year": "2013/14",
-        "total_points": 54.0
+        "total_points": 53.0
     },
     {
         "commune": "TOECE",
@@ -24664,7 +24664,7 @@
                             4,
                             0
                         ],
-                        "score": 2.0,
+                        "score": 1.0,
                         "points": [
                             0,
                             1,
@@ -24715,7 +24715,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 29.0,
+                "points": 28.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -24837,7 +24837,7 @@
         "max_points": 140,
         "stars": 1,
         "year": "2013/14",
-        "total_points": 50.0
+        "total_points": 49.0
     },
     {
         "commune": "TONGOMAYEL",
@@ -24970,7 +24970,7 @@
                             80,
                             100
                         ],
-                        "score": 6.66666667,
+                        "score": 7.0,
                         "points": [
                             0,
                             5,
@@ -24982,7 +24982,7 @@
                     }
                 ],
                 "max_points": 40,
-                "points": 20.666666669999998,
+                "points": 21.0,
                 "label": "SANT\u00c9"
             },
             {
@@ -25044,7 +25044,7 @@
         "max_points": 140,
         "stars": 1,
         "year": "2013/14",
-        "total_points": 46.66666667
+        "total_points": 47.0
     },
     {
         "commune": "TOUGOURI",
@@ -25285,7 +25285,7 @@
                             4,
                             0
                         ],
-                        "score": 7.0,
+                        "score": 6.0,
                         "points": [
                             0,
                             1,
@@ -25336,7 +25336,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 24.0,
+                "points": 23.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -25458,7 +25458,7 @@
         "max_points": 140,
         "stars": 1,
         "year": "2013/14",
-        "total_points": 53.0
+        "total_points": 52.0
     },
     {
         "commune": "YALGO",
@@ -25492,7 +25492,7 @@
                             4,
                             0
                         ],
-                        "score": 2.0,
+                        "score": 1.0,
                         "points": [
                             0,
                             1,
@@ -25543,7 +25543,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 27.0,
+                "points": 26.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -25663,9 +25663,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 140,
-        "stars": 2,
+        "stars": 1,
         "year": "2013/14",
-        "total_points": 56.0
+        "total_points": 55.0
     },
     {
         "commune": "YARGATENGA",
@@ -26113,7 +26113,7 @@
                             4,
                             0
                         ],
-                        "score": 3.0,
+                        "score": 2.0,
                         "points": [
                             0,
                             1,
@@ -26164,7 +26164,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 29.0,
+                "points": 28.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -26212,7 +26212,7 @@
                             80,
                             100
                         ],
-                        "score": 2.5,
+                        "score": 3.0,
                         "points": [
                             0,
                             5,
@@ -26224,7 +26224,7 @@
                     }
                 ],
                 "max_points": 40,
-                "points": 10.5,
+                "points": 11.0,
                 "label": "SANT\u00c9"
             },
             {
@@ -26286,7 +26286,7 @@
         "max_points": 140,
         "stars": 1,
         "year": "2013/14",
-        "total_points": 51.5
+        "total_points": 51.0
     },
     {
         "commune": "ZABRE",
@@ -26320,7 +26320,7 @@
                             4,
                             0
                         ],
-                        "score": 2.0,
+                        "score": 1.0,
                         "points": [
                             0,
                             1,
@@ -26371,7 +26371,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 25.0,
+                "points": 24.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -26419,7 +26419,7 @@
                             80,
                             100
                         ],
-                        "score": 3.3333333300000003,
+                        "score": 3.0,
                         "points": [
                             0,
                             5,
@@ -26431,7 +26431,7 @@
                     }
                 ],
                 "max_points": 40,
-                "points": 22.333333330000002,
+                "points": 22.0,
                 "label": "SANT\u00c9"
             },
             {
@@ -26493,7 +26493,7 @@
         "max_points": 140,
         "stars": 2,
         "year": "2013/14",
-        "total_points": 63.33333333
+        "total_points": 62.0
     },
     {
         "commune": "ZAM",
@@ -26941,7 +26941,7 @@
                             4,
                             0
                         ],
-                        "score": 5.0,
+                        "score": 4.0,
                         "points": [
                             0,
                             1,
@@ -26992,7 +26992,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 37.0,
+                "points": 36.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -27114,7 +27114,7 @@
         "max_points": 140,
         "stars": 2,
         "year": "2013/14",
-        "total_points": 62.0
+        "total_points": 61.0
     },
     {
         "commune": "ZIGA",
@@ -27148,7 +27148,7 @@
                             4,
                             0
                         ],
-                        "score": 4.0,
+                        "score": 3.0,
                         "points": [
                             0,
                             1,
@@ -27199,7 +27199,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 36.0,
+                "points": 35.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -27321,7 +27321,7 @@
         "max_points": 140,
         "stars": 2,
         "year": "2013/14",
-        "total_points": 61.0
+        "total_points": 60.0
     },
     {
         "commune": "ZIMTENGA",
@@ -27661,7 +27661,7 @@
                             80,
                             100
                         ],
-                        "score": 8.57142857,
+                        "score": 9.0,
                         "points": [
                             0,
                             5,
@@ -27673,7 +27673,7 @@
                     }
                 ],
                 "max_points": 40,
-                "points": 27.571428570000002,
+                "points": 28.0,
                 "label": "SANT\u00c9"
             },
             {
@@ -27735,7 +27735,7 @@
         "max_points": 140,
         "stars": 2,
         "year": "2013/14",
-        "total_points": 71.57142857
+        "total_points": 72.0
     },
     {
         "commune": "ZIOU",
@@ -27769,7 +27769,7 @@
                             4,
                             0
                         ],
-                        "score": 2.0,
+                        "score": 1.0,
                         "points": [
                             0,
                             1,
@@ -27820,7 +27820,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 28.0,
+                "points": 27.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -27942,7 +27942,7 @@
         "max_points": 140,
         "stars": 1,
         "year": "2013/14",
-        "total_points": 47.0
+        "total_points": 46.0
     },
     {
         "commune": "ZITENGA",
@@ -28390,7 +28390,7 @@
                             4,
                             0
                         ],
-                        "score": 7.0,
+                        "score": 6.0,
                         "points": [
                             0,
                             1,
@@ -28441,7 +28441,7 @@
                     }
                 ],
                 "max_points": 70,
-                "points": 33.0,
+                "points": 32.0,
                 "label": "\u00c9COLES PRIMAIRES"
             },
             {
@@ -28563,7 +28563,7 @@
         "max_points": 140,
         "stars": 2,
         "year": "2013/14",
-        "total_points": 77.0
+        "total_points": 76.0
     },
     {
         "commune": "ZORGHO",
@@ -28696,7 +28696,7 @@
                             80,
                             100
                         ],
-                        "score": 5.71428571,
+                        "score": 6.0,
                         "points": [
                             0,
                             5,
@@ -28708,7 +28708,7 @@
                     }
                 ],
                 "max_points": 40,
-                "points": 26.71428571,
+                "points": 27.0,
                 "label": "SANT\u00c9"
             },
             {
@@ -28770,7 +28770,7 @@
         "max_points": 140,
         "stars": 2,
         "year": "2013/14",
-        "total_points": 81.71428571
+        "total_points": 82.0
     },
     {
         "commune": "ZOUNGOU",
@@ -28903,7 +28903,7 @@
                             80,
                             100
                         ],
-                        "score": 3.3333333300000003,
+                        "score": 3.0,
                         "points": [
                             0,
                             5,
@@ -28915,7 +28915,7 @@
                     }
                 ],
                 "max_points": 40,
-                "points": 24.333333330000002,
+                "points": 24.0,
                 "label": "SANT\u00c9"
             },
             {
@@ -28977,6 +28977,6 @@
         "max_points": 140,
         "stars": 2,
         "year": "2013/14",
-        "total_points": 65.33333333
+        "total_points": 65.0
     }
 ]

@@ -54,7 +54,8 @@ void setup(){
     
     fill(textColor);
     textFont(lightFont);
-    text("CAPACITÉ INSTITUTIONELLE", 77, 200);
+    text("SERVICES PUBLICS", 77, 200);
+    //text("CAPACITÉ INSTITUTIONELLE", 77, 200);
     textAlign(RIGHT);
     text("MUNICIPALITÉ DE " + communeData.getString("commune"), 1883, 200);
     textAlign(LEFT);

@@ -39,8 +39,8 @@ def projected_births(row):
 	if(calc >= 1):
 		score = 12;
 
-	if row['COMMUNE'] == 'ABSOUYA':
-		print calc, score
+	# if row['COMMUNE'] == 'ABSOUYA':
+	# 	print calc, score
 
 	return score;
 
@@ -199,14 +199,15 @@ full['s_latrines'] = full.apply(latrines_score, axis=1)
 
 def supplies_score(row):
 	score = 0
-	calc = round(row['supplies_received'])
+	# calc = round(row['supplies_received'])
+	calc = row['supplies_received']
 
 	score = max(0,10 - math.sqrt(3*calc))
 
 	# if row['COMMUNE'] == 'ABSOUYA':
-		# print calc, score	
+		# print round(calc), math.floor(score)
 
-	return round(score)
+	return math.floor(score)
 
 full['s_supplies'] = full.apply(supplies_score, axis=1)
 
@@ -215,10 +216,10 @@ def csps_score(row):
 	calc = row['csps_val']
 	score = float(calc)*10
 
-	# if row['COMMUNE'] == 'DEOU':
-	# 	print calc, score
+	# if row['COMMUNE'] == 'ABSOUYA':
+		# print calc, score
 
-	return score
+	return round(score)
 
 full['s_csps'] = full.apply(csps_score, axis=1)
 

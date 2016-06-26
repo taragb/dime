@@ -43,7 +43,7 @@
                             90,
                             100
                         ],
-                        "score": 8.3,
+                        "score": 8.2,
                         "points": [
                             0,
                             1,
@@ -52,7 +52,7 @@
                             8,
                             10
                         ],
-                        "value": 97,
+                        "value": 98.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -76,7 +76,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 13.3,
+                "points": 13.2,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -148,9 +148,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 3.0149999999999997,
+        "stars": 3.01,
         "year": "2013/14",
-        "total_points": 60.3
+        "total_points": 60.2
     },
     {
         "commune": "BEREGADOUGOU",
@@ -196,7 +196,7 @@
                             90,
                             100
                         ],
-                        "score": 9.0,
+                        "score": 8.6,
                         "points": [
                             0,
                             1,
@@ -205,7 +205,7 @@
                             8,
                             10
                         ],
-                        "value": 90,
+                        "value": 94.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -229,7 +229,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 14.0,
+                "points": 13.6,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -301,9 +301,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.7999999999999998,
+        "stars": 1.7800000000000002,
         "year": "2013/14",
-        "total_points": 36.0
+        "total_points": 35.6
     },
     {
         "commune": "MANGODARA",
@@ -358,7 +358,7 @@
                             8,
                             10
                         ],
-                        "value": 87,
+                        "value": 87.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -511,7 +511,7 @@
                             8,
                             10
                         ],
-                        "value": 85,
+                        "value": 85.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -655,7 +655,7 @@
                             90,
                             100
                         ],
-                        "score": 6.5,
+                        "score": 6.4,
                         "points": [
                             0,
                             1,
@@ -664,7 +664,7 @@
                             8,
                             10
                         ],
-                        "value": 85,
+                        "value": 86.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -688,7 +688,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 10.5,
+                "points": 10.4,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -760,9 +760,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.7249999999999999,
+        "stars": 1.7199999999999998,
         "year": "2013/14",
-        "total_points": 34.5
+        "total_points": 34.4
     },
     {
         "commune": "OUO",
@@ -808,7 +808,7 @@
                             90,
                             100
                         ],
-                        "score": 4.9,
+                        "score": 4.8,
                         "points": [
                             0,
                             1,
@@ -817,7 +817,7 @@
                             8,
                             10
                         ],
-                        "value": 62,
+                        "value": 63.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -841,7 +841,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 9.9,
+                "points": 9.8,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -913,9 +913,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.595,
+        "stars": 1.59,
         "year": "2013/14",
-        "total_points": 31.9
+        "total_points": 31.8
     },
     {
         "commune": "SIDERADOUGOU",
@@ -961,7 +961,7 @@
                             90,
                             100
                         ],
-                        "score": 6.4,
+                        "score": 6.3,
                         "points": [
                             0,
                             1,
@@ -970,7 +970,7 @@
                             8,
                             10
                         ],
-                        "value": 86,
+                        "value": 87.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -994,7 +994,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 11.4,
+                "points": 11.3,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -1066,9 +1066,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.7199999999999998,
+        "stars": 1.7149999999999999,
         "year": "2013/14",
-        "total_points": 34.4
+        "total_points": 34.3
     },
     {
         "commune": "SOUBAKANIEDOUGOU",
@@ -1276,7 +1276,7 @@
                             8,
                             10
                         ],
-                        "value": 70,
+                        "value": 70.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -1429,7 +1429,7 @@
                             8,
                             10
                         ],
-                        "value": 55,
+                        "value": 55.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -1582,7 +1582,7 @@
                             8,
                             10
                         ],
-                        "value": 95,
+                        "value": 95.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -1726,7 +1726,7 @@
                             90,
                             100
                         ],
-                        "score": 7.0,
+                        "score": 6.7,
                         "points": [
                             0,
                             1,
@@ -1735,7 +1735,7 @@
                             8,
                             10
                         ],
-                        "value": 80,
+                        "value": 83.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -1759,7 +1759,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 11.0,
+                "points": 10.7,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -1831,9 +1831,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.2,
+        "stars": 2.1850000000000005,
         "year": "2013/14",
-        "total_points": 44.0
+        "total_points": 43.7
     },
     {
         "commune": "LOUMANA",
@@ -1879,7 +1879,7 @@
                             90,
                             100
                         ],
-                        "score": 6.4,
+                        "score": 6.2,
                         "points": [
                             0,
                             1,
@@ -1888,7 +1888,7 @@
                             8,
                             10
                         ],
-                        "value": 86,
+                        "value": 88.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -1912,7 +1912,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 10.4,
+                "points": 10.2,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -1984,9 +1984,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.32,
+        "stars": 2.31,
         "year": "2013/14",
-        "total_points": 46.4
+        "total_points": 46.2
     },
     {
         "commune": "NIANKORODOUGOU",
@@ -2041,7 +2041,7 @@
                             8,
                             10
                         ],
-                        "value": 73,
+                        "value": 74.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -2185,7 +2185,7 @@
                             90,
                             100
                         ],
-                        "score": 4.1,
+                        "score": 4.0,
                         "points": [
                             0,
                             1,
@@ -2194,7 +2194,7 @@
                             8,
                             10
                         ],
-                        "value": 78,
+                        "value": 79.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -2218,7 +2218,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 9.1,
+                "points": 9.0,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -2290,9 +2290,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.3050000000000002,
+        "stars": 1.3,
         "year": "2013/14",
-        "total_points": 26.1
+        "total_points": 26.0
     },
     {
         "commune": "SINDOU",
@@ -2338,7 +2338,7 @@
                             90,
                             100
                         ],
-                        "score": 4.2,
+                        "score": 7.0,
                         "points": [
                             0,
                             1,
@@ -2347,7 +2347,7 @@
                             8,
                             10
                         ],
-                        "value": 77,
+                        "value": 80.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -2371,7 +2371,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 10.2,
+                "points": 13.0,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -2443,9 +2443,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.7100000000000002,
+        "stars": 1.85,
         "year": "2013/14",
-        "total_points": 34.2
+        "total_points": 37.0
     },
     {
         "commune": "WOLONKOTO",
@@ -2491,7 +2491,7 @@
                             90,
                             100
                         ],
-                        "score": 7.0,
+                        "score": 6.9,
                         "points": [
                             0,
                             1,
@@ -2500,7 +2500,7 @@
                             8,
                             10
                         ],
-                        "value": 80,
+                        "value": 81.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -2524,7 +2524,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 12.0,
+                "points": 11.9,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -2596,9 +2596,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.3000000000000003,
+        "stars": 2.295,
         "year": "2013/14",
-        "total_points": 46.0
+        "total_points": 45.9
     },
     {
         "commune": "BAGRE (TENKODOGO)",
@@ -2644,7 +2644,7 @@
                             90,
                             100
                         ],
-                        "score": 1.5,
+                        "score": 1.4,
                         "points": [
                             0,
                             1,
@@ -2653,7 +2653,7 @@
                             8,
                             10
                         ],
-                        "value": 50,
+                        "value": 53.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -2677,7 +2677,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 5.5,
+                "points": 5.4,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -2749,9 +2749,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.425,
+        "stars": 2.42,
         "year": "2013/14",
-        "total_points": 48.5
+        "total_points": 48.4
     },
     {
         "commune": "BANE",
@@ -2806,7 +2806,7 @@
                             8,
                             10
                         ],
-                        "value": 52,
+                        "value": 52.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -2959,7 +2959,7 @@
                             8,
                             10
                         ],
-                        "value": 60,
+                        "value": 61.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -3112,7 +3112,7 @@
                             8,
                             10
                         ],
-                        "value": 76,
+                        "value": 76.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -3256,7 +3256,7 @@
                             90,
                             100
                         ],
-                        "score": 9.0,
+                        "score": 8.8,
                         "points": [
                             0,
                             1,
@@ -3265,7 +3265,7 @@
                             8,
                             10
                         ],
-                        "value": 90,
+                        "value": 92.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -3289,7 +3289,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 14.0,
+                "points": 13.8,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -3361,9 +3361,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.0,
+        "stars": 1.9899999999999998,
         "year": "2013/14",
-        "total_points": 40.0
+        "total_points": 39.8
     },
     {
         "commune": "BOUSSOUMA (GARANGO)",
@@ -3409,7 +3409,7 @@
                             90,
                             100
                         ],
-                        "score": 9.0,
+                        "score": 8.9,
                         "points": [
                             0,
                             1,
@@ -3418,7 +3418,7 @@
                             8,
                             10
                         ],
-                        "value": 90,
+                        "value": 91.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -3442,7 +3442,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 14.0,
+                "points": 13.9,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -3514,9 +3514,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.05,
+        "stars": 2.045,
         "year": "2013/14",
-        "total_points": 41.0
+        "total_points": 40.9
     },
     {
         "commune": "GARANGO",
@@ -3562,7 +3562,7 @@
                             90,
                             100
                         ],
-                        "score": 6.1,
+                        "score": 8.9,
                         "points": [
                             0,
                             1,
@@ -3571,7 +3571,7 @@
                             8,
                             10
                         ],
-                        "value": 89,
+                        "value": 91.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -3595,7 +3595,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 10.1,
+                "points": 12.9,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -3667,9 +3667,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.705,
+        "stars": 1.845,
         "year": "2013/14",
-        "total_points": 34.1
+        "total_points": 36.9
     },
     {
         "commune": "KOMTOEGA",
@@ -3715,7 +3715,7 @@
                             90,
                             100
                         ],
-                        "score": 8.4,
+                        "score": 8.3,
                         "points": [
                             0,
                             1,
@@ -3724,7 +3724,7 @@
                             8,
                             10
                         ],
-                        "value": 96,
+                        "value": 97.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -3748,7 +3748,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 15.4,
+                "points": 15.3,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -3820,9 +3820,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.8199999999999998,
+        "stars": 1.815,
         "year": "2013/14",
-        "total_points": 36.4
+        "total_points": 36.3
     },
     {
         "commune": "NIAOGO",
@@ -3868,7 +3868,7 @@
                             90,
                             100
                         ],
-                        "score": 6.5,
+                        "score": 6.2,
                         "points": [
                             0,
                             1,
@@ -3877,7 +3877,7 @@
                             8,
                             10
                         ],
-                        "value": 85,
+                        "value": 88.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -3901,7 +3901,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 11.5,
+                "points": 11.2,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -3973,9 +3973,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.225,
+        "stars": 2.21,
         "year": "2013/14",
-        "total_points": 44.5
+        "total_points": 44.2
     },
     {
         "commune": "TENKODOGO",
@@ -4030,7 +4030,7 @@
                             8,
                             10
                         ],
-                        "value": 87,
+                        "value": 87.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -4174,7 +4174,7 @@
                             90,
                             100
                         ],
-                        "score": 6.6,
+                        "score": 6.5,
                         "points": [
                             0,
                             1,
@@ -4183,7 +4183,7 @@
                             8,
                             10
                         ],
-                        "value": 84,
+                        "value": 85.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -4207,7 +4207,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 11.6,
+                "points": 11.5,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -4279,9 +4279,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.88,
+        "stars": 1.875,
         "year": "2013/14",
-        "total_points": 37.6
+        "total_points": 37.5
     },
     {
         "commune": "ZOAGA",
@@ -4336,7 +4336,7 @@
                             8,
                             10
                         ],
-                        "value": 71,
+                        "value": 71.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -4489,7 +4489,7 @@
                             8,
                             10
                         ],
-                        "value": 91,
+                        "value": 91.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -4633,7 +4633,7 @@
                             90,
                             100
                         ],
-                        "score": 8.6,
+                        "score": 8.5,
                         "points": [
                             0,
                             1,
@@ -4642,7 +4642,7 @@
                             8,
                             10
                         ],
-                        "value": 94,
+                        "value": 95.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -4666,7 +4666,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 13.6,
+                "points": 13.5,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -4738,9 +4738,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.88,
+        "stars": 1.875,
         "year": "2013/14",
-        "total_points": 37.6
+        "total_points": 37.5
     },
     {
         "commune": "DOURTENGA",
@@ -4786,7 +4786,7 @@
                             90,
                             100
                         ],
-                        "score": 8.9,
+                        "score": 8.7,
                         "points": [
                             0,
                             1,
@@ -4795,7 +4795,7 @@
                             8,
                             10
                         ],
-                        "value": 91,
+                        "value": 93.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -4819,7 +4819,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 12.9,
+                "points": 12.7,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -4891,9 +4891,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.6949999999999998,
+        "stars": 1.685,
         "year": "2013/14",
-        "total_points": 33.9
+        "total_points": 33.7
     },
     {
         "commune": "LALGAYE",
@@ -4939,7 +4939,7 @@
                             90,
                             100
                         ],
-                        "score": 8.4,
+                        "score": 8.3,
                         "points": [
                             0,
                             1,
@@ -4948,7 +4948,7 @@
                             8,
                             10
                         ],
-                        "value": 96,
+                        "value": 97.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -4972,7 +4972,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 13.4,
+                "points": 13.3,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -5044,9 +5044,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.37,
+        "stars": 2.3649999999999998,
         "year": "2013/14",
-        "total_points": 47.4
+        "total_points": 47.3
     },
     {
         "commune": "OUARGAYE",
@@ -5092,7 +5092,7 @@
                             90,
                             100
                         ],
-                        "score": 6.2,
+                        "score": 9.0,
                         "points": [
                             0,
                             1,
@@ -5101,7 +5101,7 @@
                             8,
                             10
                         ],
-                        "value": 88,
+                        "value": 90.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -5125,7 +5125,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 11.2,
+                "points": 14.0,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -5197,9 +5197,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.46,
+        "stars": 1.6,
         "year": "2013/14",
-        "total_points": 29.2
+        "total_points": 32.0
     },
     {
         "commune": "SANGA",
@@ -5245,7 +5245,7 @@
                             90,
                             100
                         ],
-                        "score": 8.4,
+                        "score": 8.3,
                         "points": [
                             0,
                             1,
@@ -5254,7 +5254,7 @@
                             8,
                             10
                         ],
-                        "value": 96,
+                        "value": 97.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -5278,7 +5278,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 13.4,
+                "points": 13.3,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -5350,9 +5350,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.07,
+        "stars": 2.065,
         "year": "2013/14",
-        "total_points": 41.4
+        "total_points": 41.3
     },
     {
         "commune": "SOUDOUGUI",
@@ -5407,7 +5407,7 @@
                             8,
                             10
                         ],
-                        "value": 66,
+                        "value": 67.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -5551,7 +5551,7 @@
                             90,
                             100
                         ],
-                        "score": 4.4,
+                        "score": 4.3,
                         "points": [
                             0,
                             1,
@@ -5560,7 +5560,7 @@
                             8,
                             10
                         ],
-                        "value": 72,
+                        "value": 75.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -5584,7 +5584,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 9.4,
+                "points": 9.3,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -5656,9 +5656,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.9699999999999998,
+        "stars": 1.9649999999999999,
         "year": "2013/14",
-        "total_points": 39.4
+        "total_points": 39.3
     },
     {
         "commune": "YONDE",
@@ -5704,7 +5704,7 @@
                             90,
                             100
                         ],
-                        "score": 8.9,
+                        "score": 8.8,
                         "points": [
                             0,
                             1,
@@ -5713,7 +5713,7 @@
                             8,
                             10
                         ],
-                        "value": 91,
+                        "value": 92.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -5737,7 +5737,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 13.9,
+                "points": 13.8,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -5809,9 +5809,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.295,
+        "stars": 2.29,
         "year": "2013/14",
-        "total_points": 45.9
+        "total_points": 45.8
     },
     {
         "commune": "ANDEMTENGA",
@@ -5857,7 +5857,7 @@
                             90,
                             100
                         ],
-                        "score": 9.0,
+                        "score": 8.8,
                         "points": [
                             0,
                             1,
@@ -5866,7 +5866,7 @@
                             8,
                             10
                         ],
-                        "value": 90,
+                        "value": 92.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -5890,7 +5890,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 16.0,
+                "points": 15.8,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -5962,9 +5962,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.5,
+        "stars": 2.49,
         "year": "2013/14",
-        "total_points": 50.0
+        "total_points": 49.8
     },
     {
         "commune": "BASKOURE",
@@ -6010,7 +6010,7 @@
                             90,
                             100
                         ],
-                        "score": 8.5,
+                        "score": 8.3,
                         "points": [
                             0,
                             1,
@@ -6019,7 +6019,7 @@
                             8,
                             10
                         ],
-                        "value": 95,
+                        "value": 97.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -6043,7 +6043,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 17.5,
+                "points": 17.3,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -6115,9 +6115,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.525,
+        "stars": 2.515,
         "year": "2013/14",
-        "total_points": 50.5
+        "total_points": 50.3
     },
     {
         "commune": "DIALGAYE",
@@ -6172,7 +6172,7 @@
                             8,
                             10
                         ],
-                        "value": 95,
+                        "value": 95.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -6316,7 +6316,7 @@
                             90,
                             100
                         ],
-                        "score": 7.0,
+                        "score": 6.9,
                         "points": [
                             0,
                             1,
@@ -6325,7 +6325,7 @@
                             8,
                             10
                         ],
-                        "value": 80,
+                        "value": 81.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -6349,7 +6349,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 14.0,
+                "points": 13.9,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -6421,9 +6421,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.6500000000000004,
+        "stars": 2.645,
         "year": "2013/14",
-        "total_points": 53.0
+        "total_points": 52.9
     },
     {
         "commune": "KANDO",
@@ -6469,7 +6469,7 @@
                             90,
                             100
                         ],
-                        "score": 4.3,
+                        "score": 4.2,
                         "points": [
                             0,
                             1,
@@ -6478,7 +6478,7 @@
                             8,
                             10
                         ],
-                        "value": 75,
+                        "value": 76.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -6502,7 +6502,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 9.3,
+                "points": 9.2,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -6574,9 +6574,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.1149999999999998,
+        "stars": 2.1100000000000003,
         "year": "2013/14",
-        "total_points": 42.3
+        "total_points": 42.2
     },
     {
         "commune": "KOUPELA",
@@ -6631,7 +6631,7 @@
                             8,
                             10
                         ],
-                        "value": 91,
+                        "value": 91.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -6775,7 +6775,7 @@
                             90,
                             100
                         ],
-                        "score": 8.7,
+                        "score": 8.6,
                         "points": [
                             0,
                             1,
@@ -6784,7 +6784,7 @@
                             8,
                             10
                         ],
-                        "value": 93,
+                        "value": 94.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -6808,7 +6808,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 14.7,
+                "points": 14.6,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -6880,9 +6880,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.3850000000000002,
+        "stars": 2.3800000000000003,
         "year": "2013/14",
-        "total_points": 47.7
+        "total_points": 47.6
     },
     {
         "commune": "TENSOBENTENGA",
@@ -6937,7 +6937,7 @@
                             8,
                             10
                         ],
-                        "value": 90,
+                        "value": 90.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -7081,7 +7081,7 @@
                             90,
                             100
                         ],
-                        "score": 8.6,
+                        "score": 8.3,
                         "points": [
                             0,
                             1,
@@ -7090,7 +7090,7 @@
                             8,
                             10
                         ],
-                        "value": 94,
+                        "value": 97.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -7114,7 +7114,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 13.6,
+                "points": 13.3,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -7186,9 +7186,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.23,
+        "stars": 2.215,
         "year": "2013/14",
-        "total_points": 44.6
+        "total_points": 44.3
     },
     {
         "commune": "BOURZANGA",
@@ -7234,7 +7234,7 @@
                             90,
                             100
                         ],
-                        "score": 6.2,
+                        "score": 6.1,
                         "points": [
                             0,
                             1,
@@ -7243,7 +7243,7 @@
                             8,
                             10
                         ],
-                        "value": 88,
+                        "value": 89.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -7267,7 +7267,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 11.2,
+                "points": 11.1,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -7339,9 +7339,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.8600000000000003,
+        "stars": 1.855,
         "year": "2013/14",
-        "total_points": 37.2
+        "total_points": 37.1
     },
     {
         "commune": "GUIBARE",
@@ -7387,7 +7387,7 @@
                             90,
                             100
                         ],
-                        "score": 8.4,
+                        "score": 8.3,
                         "points": [
                             0,
                             1,
@@ -7396,7 +7396,7 @@
                             8,
                             10
                         ],
-                        "value": 96,
+                        "value": 97.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -7420,7 +7420,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 12.4,
+                "points": 12.3,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -7492,9 +7492,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.7199999999999998,
+        "stars": 1.7149999999999999,
         "year": "2013/14",
-        "total_points": 34.4
+        "total_points": 34.3
     },
     {
         "commune": "KONGOUSSI",
@@ -7540,7 +7540,7 @@
                             90,
                             100
                         ],
-                        "score": 8.4,
+                        "score": 8.3,
                         "points": [
                             0,
                             1,
@@ -7549,7 +7549,7 @@
                             8,
                             10
                         ],
-                        "value": 96,
+                        "value": 97.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -7573,7 +7573,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 13.4,
+                "points": 13.3,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -7645,9 +7645,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.22,
+        "stars": 2.215,
         "year": "2013/14",
-        "total_points": 44.4
+        "total_points": 44.3
     },
     {
         "commune": "NASSERE",
@@ -7693,7 +7693,7 @@
                             90,
                             100
                         ],
-                        "score": 9.0,
+                        "score": 8.8,
                         "points": [
                             0,
                             1,
@@ -7702,7 +7702,7 @@
                             8,
                             10
                         ],
-                        "value": 90,
+                        "value": 92.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -7726,7 +7726,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 16.0,
+                "points": 15.8,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -7798,9 +7798,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.45,
+        "stars": 2.44,
         "year": "2013/14",
-        "total_points": 49.0
+        "total_points": 48.8
     },
     {
         "commune": "ROLLO",
@@ -7846,7 +7846,7 @@
                             90,
                             100
                         ],
-                        "score": 8.7,
+                        "score": 8.6,
                         "points": [
                             0,
                             1,
@@ -7855,7 +7855,7 @@
                             8,
                             10
                         ],
-                        "value": 93,
+                        "value": 94.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -7879,7 +7879,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 15.7,
+                "points": 15.6,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -7951,9 +7951,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.1850000000000005,
+        "stars": 2.18,
         "year": "2013/14",
-        "total_points": 43.7
+        "total_points": 43.6
     },
     {
         "commune": "ROUKO",
@@ -7999,7 +7999,7 @@
                             90,
                             100
                         ],
-                        "score": 7.0,
+                        "score": 6.9,
                         "points": [
                             0,
                             1,
@@ -8008,7 +8008,7 @@
                             8,
                             10
                         ],
-                        "value": 80,
+                        "value": 81.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -8032,7 +8032,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 12.0,
+                "points": 11.9,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -8104,9 +8104,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.9500000000000002,
+        "stars": 1.945,
         "year": "2013/14",
-        "total_points": 39.0
+        "total_points": 38.9
     },
     {
         "commune": "SABCE",
@@ -8152,7 +8152,7 @@
                             90,
                             100
                         ],
-                        "score": 8.9,
+                        "score": 8.8,
                         "points": [
                             0,
                             1,
@@ -8161,7 +8161,7 @@
                             8,
                             10
                         ],
-                        "value": 91,
+                        "value": 92.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -8185,7 +8185,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 13.9,
+                "points": 13.8,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -8257,9 +8257,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.145,
+        "stars": 2.14,
         "year": "2013/14",
-        "total_points": 42.9
+        "total_points": 42.8
     },
     {
         "commune": "TIKARE",
@@ -8305,7 +8305,7 @@
                             90,
                             100
                         ],
-                        "score": 6.3,
+                        "score": 6.2,
                         "points": [
                             0,
                             1,
@@ -8314,7 +8314,7 @@
                             8,
                             10
                         ],
-                        "value": 87,
+                        "value": 88.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -8338,7 +8338,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 11.3,
+                "points": 11.2,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -8410,9 +8410,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.165,
+        "stars": 2.16,
         "year": "2013/14",
-        "total_points": 43.3
+        "total_points": 43.2
     },
     {
         "commune": "ZIMTENGA",
@@ -8458,7 +8458,7 @@
                             90,
                             100
                         ],
-                        "score": 6.8,
+                        "score": 6.6,
                         "points": [
                             0,
                             1,
@@ -8467,7 +8467,7 @@
                             8,
                             10
                         ],
-                        "value": 82,
+                        "value": 84.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -8491,7 +8491,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 11.8,
+                "points": 11.6,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -8563,9 +8563,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.49,
+        "stars": 1.4800000000000002,
         "year": "2013/14",
-        "total_points": 29.8
+        "total_points": 29.6
     },
     {
         "commune": "BOALA",
@@ -8611,7 +8611,7 @@
                             90,
                             100
                         ],
-                        "score": 6.9,
+                        "score": 6.7,
                         "points": [
                             0,
                             1,
@@ -8620,7 +8620,7 @@
                             8,
                             10
                         ],
-                        "value": 81,
+                        "value": 83.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -8644,7 +8644,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 13.9,
+                "points": 13.7,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -8716,9 +8716,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.3449999999999998,
+        "stars": 1.335,
         "year": "2013/14",
-        "total_points": 26.9
+        "total_points": 26.7
     },
     {
         "commune": "BOULSA",
@@ -8764,7 +8764,7 @@
                             90,
                             100
                         ],
-                        "score": 6.3,
+                        "score": 6.2,
                         "points": [
                             0,
                             1,
@@ -8773,7 +8773,7 @@
                             8,
                             10
                         ],
-                        "value": 87,
+                        "value": 88.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -8797,7 +8797,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 11.3,
+                "points": 11.2,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -8869,9 +8869,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.6649999999999998,
+        "stars": 1.6600000000000001,
         "year": "2013/14",
-        "total_points": 33.3
+        "total_points": 33.2
     },
     {
         "commune": "BOUROUM",
@@ -8917,7 +8917,7 @@
                             90,
                             100
                         ],
-                        "score": 6.1,
+                        "score": 9.0,
                         "points": [
                             0,
                             1,
@@ -8926,7 +8926,7 @@
                             8,
                             10
                         ],
-                        "value": 89,
+                        "value": 90.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -8950,7 +8950,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 10.1,
+                "points": 13.0,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -9022,9 +9022,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.255,
+        "stars": 2.4,
         "year": "2013/14",
-        "total_points": 45.1
+        "total_points": 48.0
     },
     {
         "commune": "DARGO",
@@ -9070,7 +9070,7 @@
                             90,
                             100
                         ],
-                        "score": 6.6,
+                        "score": 6.4,
                         "points": [
                             0,
                             1,
@@ -9079,7 +9079,7 @@
                             8,
                             10
                         ],
-                        "value": 84,
+                        "value": 86.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -9103,7 +9103,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 13.6,
+                "points": 13.4,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -9175,9 +9175,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.0300000000000002,
+        "stars": 2.02,
         "year": "2013/14",
-        "total_points": 40.6
+        "total_points": 40.4
     },
     {
         "commune": "NAGBINGOU",
@@ -9223,7 +9223,7 @@
                             90,
                             100
                         ],
-                        "score": 8.4,
+                        "score": 8.2,
                         "points": [
                             0,
                             1,
@@ -9232,7 +9232,7 @@
                             8,
                             10
                         ],
-                        "value": 96,
+                        "value": 98.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -9256,7 +9256,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 13.4,
+                "points": 13.2,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -9328,9 +9328,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.17,
+        "stars": 2.16,
         "year": "2013/14",
-        "total_points": 43.4
+        "total_points": 43.2
     },
     {
         "commune": "TOUGOURI",
@@ -9385,7 +9385,7 @@
                             8,
                             10
                         ],
-                        "value": 93,
+                        "value": 93.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -9538,7 +9538,7 @@
                             8,
                             10
                         ],
-                        "value": 86,
+                        "value": 86.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -9682,7 +9682,7 @@
                             90,
                             100
                         ],
-                        "score": 4.4,
+                        "score": 4.3,
                         "points": [
                             0,
                             1,
@@ -9691,7 +9691,7 @@
                             8,
                             10
                         ],
-                        "value": 72,
+                        "value": 73.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -9715,7 +9715,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 14.4,
+                "points": 14.3,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -9787,9 +9787,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.02,
+        "stars": 2.0149999999999997,
         "year": "2013/14",
-        "total_points": 40.4
+        "total_points": 40.3
     },
     {
         "commune": "BARSALOGHO",
@@ -9835,7 +9835,7 @@
                             90,
                             100
                         ],
-                        "score": 8.9,
+                        "score": 8.8,
                         "points": [
                             0,
                             1,
@@ -9844,7 +9844,7 @@
                             8,
                             10
                         ],
-                        "value": 91,
+                        "value": 92.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -9868,7 +9868,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 13.9,
+                "points": 13.8,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -9940,9 +9940,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.295,
+        "stars": 2.29,
         "year": "2013/14",
-        "total_points": 45.9
+        "total_points": 45.8
     },
     {
         "commune": "DABLO",
@@ -9988,7 +9988,7 @@
                             90,
                             100
                         ],
-                        "score": 6.5,
+                        "score": 6.3,
                         "points": [
                             0,
                             1,
@@ -9997,7 +9997,7 @@
                             8,
                             10
                         ],
-                        "value": 85,
+                        "value": 87.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -10021,7 +10021,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 11.5,
+                "points": 11.3,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -10093,9 +10093,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.675,
+        "stars": 1.6649999999999998,
         "year": "2013/14",
-        "total_points": 33.5
+        "total_points": 33.3
     },
     {
         "commune": "KAYA",
@@ -10141,7 +10141,7 @@
                             90,
                             100
                         ],
-                        "score": 8.4,
+                        "score": 8.3,
                         "points": [
                             0,
                             1,
@@ -10150,7 +10150,7 @@
                             8,
                             10
                         ],
-                        "value": 96,
+                        "value": 97.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -10174,7 +10174,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 13.4,
+                "points": 13.3,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -10246,9 +10246,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.32,
+        "stars": 2.315,
         "year": "2013/14",
-        "total_points": 46.4
+        "total_points": 46.3
     },
     {
         "commune": "KORSIMORO",
@@ -10294,7 +10294,7 @@
                             90,
                             100
                         ],
-                        "score": 8.7,
+                        "score": 8.6,
                         "points": [
                             0,
                             1,
@@ -10303,7 +10303,7 @@
                             8,
                             10
                         ],
-                        "value": 93,
+                        "value": 94.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -10327,7 +10327,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 13.7,
+                "points": 13.6,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -10399,9 +10399,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.435,
+        "stars": 2.4299999999999997,
         "year": "2013/14",
-        "total_points": 48.7
+        "total_points": 48.6
     },
     {
         "commune": "MANE",
@@ -10456,7 +10456,7 @@
                             8,
                             10
                         ],
-                        "value": 89,
+                        "value": 89.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -10600,7 +10600,7 @@
                             90,
                             100
                         ],
-                        "score": 6.4,
+                        "score": 6.2,
                         "points": [
                             0,
                             1,
@@ -10609,7 +10609,7 @@
                             8,
                             10
                         ],
-                        "value": 86,
+                        "value": 88.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -10633,7 +10633,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 10.4,
+                "points": 10.2,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -10705,9 +10705,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.07,
+        "stars": 2.06,
         "year": "2013/14",
-        "total_points": 41.4
+        "total_points": 41.2
     },
     {
         "commune": "PENSA",
@@ -10753,7 +10753,7 @@
                             90,
                             100
                         ],
-                        "score": 1.7,
+                        "score": 1.6,
                         "points": [
                             0,
                             1,
@@ -10762,7 +10762,7 @@
                             8,
                             10
                         ],
-                        "value": 46,
+                        "value": 47.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -10786,7 +10786,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 11.7,
+                "points": 11.6,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -10858,9 +10858,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.8350000000000002,
+        "stars": 1.83,
         "year": "2013/14",
-        "total_points": 36.7
+        "total_points": 36.6
     },
     {
         "commune": "PIBAORE",
@@ -10906,7 +10906,7 @@
                             90,
                             100
                         ],
-                        "score": 8.8,
+                        "score": 8.7,
                         "points": [
                             0,
                             1,
@@ -10915,7 +10915,7 @@
                             8,
                             10
                         ],
-                        "value": 92,
+                        "value": 93.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -10939,7 +10939,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 12.8,
+                "points": 12.7,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -11011,9 +11011,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.79,
+        "stars": 1.7850000000000001,
         "year": "2013/14",
-        "total_points": 35.8
+        "total_points": 35.7
     },
     {
         "commune": "PISSILA",
@@ -11059,7 +11059,7 @@
                             90,
                             100
                         ],
-                        "score": 8.8,
+                        "score": 8.7,
                         "points": [
                             0,
                             1,
@@ -11068,7 +11068,7 @@
                             8,
                             10
                         ],
-                        "value": 92,
+                        "value": 93.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -11092,7 +11092,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 13.8,
+                "points": 13.7,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -11164,9 +11164,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.34,
+        "stars": 2.335,
         "year": "2013/14",
-        "total_points": 46.8
+        "total_points": 46.7
     },
     {
         "commune": "BOUSSOUMA (KAYA)",
@@ -11212,7 +11212,7 @@
                             90,
                             100
                         ],
-                        "score": 8.7,
+                        "score": 8.6,
                         "points": [
                             0,
                             1,
@@ -11221,7 +11221,7 @@
                             8,
                             10
                         ],
-                        "value": 93,
+                        "value": 94.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -11245,7 +11245,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 11.7,
+                "points": 11.6,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -11317,9 +11317,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.285,
+        "stars": 2.2800000000000002,
         "year": "2013/14",
-        "total_points": 45.7
+        "total_points": 45.6
     },
     {
         "commune": "ZIGA",
@@ -11365,7 +11365,7 @@
                             90,
                             100
                         ],
-                        "score": 7.0,
+                        "score": 6.8,
                         "points": [
                             0,
                             1,
@@ -11374,7 +11374,7 @@
                             8,
                             10
                         ],
-                        "value": 80,
+                        "value": 82.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -11398,7 +11398,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 14.0,
+                "points": 13.8,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -11470,9 +11470,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.85,
+        "stars": 1.8399999999999999,
         "year": "2013/14",
-        "total_points": 37.0
+        "total_points": 36.8
     },
     {
         "commune": "DOULOUGOU",
@@ -11518,7 +11518,7 @@
                             90,
                             100
                         ],
-                        "score": 8.6,
+                        "score": 8.5,
                         "points": [
                             0,
                             1,
@@ -11527,7 +11527,7 @@
                             8,
                             10
                         ],
-                        "value": 94,
+                        "value": 95.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -11551,7 +11551,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 13.6,
+                "points": 13.5,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -11623,9 +11623,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.83,
+        "stars": 1.825,
         "year": "2013/14",
-        "total_points": 36.6
+        "total_points": 36.5
     },
     {
         "commune": "GAONGO",
@@ -11671,7 +11671,7 @@
                             90,
                             100
                         ],
-                        "score": 8.8,
+                        "score": 8.6,
                         "points": [
                             0,
                             1,
@@ -11680,7 +11680,7 @@
                             8,
                             10
                         ],
-                        "value": 92,
+                        "value": 94.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -11704,7 +11704,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 13.8,
+                "points": 13.6,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -11776,9 +11776,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.54,
+        "stars": 1.53,
         "year": "2013/14",
-        "total_points": 30.8
+        "total_points": 30.6
     },
     {
         "commune": "IPELCE",
@@ -11833,7 +11833,7 @@
                             8,
                             10
                         ],
-                        "value": 96,
+                        "value": 96.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -11977,7 +11977,7 @@
                             90,
                             100
                         ],
-                        "score": 6.5,
+                        "score": 6.4,
                         "points": [
                             0,
                             1,
@@ -11986,7 +11986,7 @@
                             8,
                             10
                         ],
-                        "value": 85,
+                        "value": 86.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -12010,7 +12010,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 10.5,
+                "points": 10.4,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -12082,9 +12082,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.625,
+        "stars": 1.62,
         "year": "2013/14",
-        "total_points": 32.5
+        "total_points": 32.4
     },
     {
         "commune": "KOMBISSIRI",
@@ -12130,7 +12130,7 @@
                             90,
                             100
                         ],
-                        "score": 8.3,
+                        "score": 8.2,
                         "points": [
                             0,
                             1,
@@ -12139,7 +12139,7 @@
                             8,
                             10
                         ],
-                        "value": 97,
+                        "value": 98.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -12163,7 +12163,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 13.3,
+                "points": 13.2,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -12235,9 +12235,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.9149999999999998,
+        "stars": 1.9100000000000001,
         "year": "2013/14",
-        "total_points": 38.3
+        "total_points": 38.2
     },
     {
         "commune": "SAPONE",
@@ -12283,7 +12283,7 @@
                             90,
                             100
                         ],
-                        "score": 6.4,
+                        "score": 6.3,
                         "points": [
                             0,
                             1,
@@ -12292,7 +12292,7 @@
                             8,
                             10
                         ],
-                        "value": 86,
+                        "value": 87.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -12316,7 +12316,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 11.4,
+                "points": 11.3,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -12388,9 +12388,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.7199999999999998,
+        "stars": 1.7149999999999999,
         "year": "2013/14",
-        "total_points": 34.4
+        "total_points": 34.3
     },
     {
         "commune": "TOECE",
@@ -12436,7 +12436,7 @@
                             90,
                             100
                         ],
-                        "score": 8.3,
+                        "score": 8.2,
                         "points": [
                             0,
                             1,
@@ -12445,7 +12445,7 @@
                             8,
                             10
                         ],
-                        "value": 97,
+                        "value": 98.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -12469,7 +12469,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 26.3,
+                "points": 26.2,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -12541,9 +12541,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.6649999999999996,
+        "stars": 2.66,
         "year": "2013/14",
-        "total_points": 53.3
+        "total_points": 53.2
     },
     {
         "commune": "GUIARO",
@@ -12598,7 +12598,7 @@
                             8,
                             10
                         ],
-                        "value": 15,
+                        "value": 16.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -12742,7 +12742,7 @@
                             90,
                             100
                         ],
-                        "score": 7.0,
+                        "score": 6.8,
                         "points": [
                             0,
                             1,
@@ -12751,7 +12751,7 @@
                             8,
                             10
                         ],
-                        "value": 80,
+                        "value": 82.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -12775,7 +12775,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 19.0,
+                "points": 18.8,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -12847,9 +12847,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.3000000000000003,
+        "stars": 2.29,
         "year": "2013/14",
-        "total_points": 46.0
+        "total_points": 45.8
     },
     {
         "commune": "TIEBELE",
@@ -12904,7 +12904,7 @@
                             8,
                             10
                         ],
-                        "value": 93,
+                        "value": 93.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -13048,7 +13048,7 @@
                             90,
                             100
                         ],
-                        "score": 9.0,
+                        "score": 8.8,
                         "points": [
                             0,
                             1,
@@ -13057,7 +13057,7 @@
                             8,
                             10
                         ],
-                        "value": 90,
+                        "value": 92.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -13081,7 +13081,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 14.0,
+                "points": 13.8,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -13153,9 +13153,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.6,
+        "stars": 2.59,
         "year": "2013/14",
-        "total_points": 52.0
+        "total_points": 51.8
     },
     {
         "commune": "ZIOU",
@@ -13201,7 +13201,7 @@
                             90,
                             100
                         ],
-                        "score": 6.8,
+                        "score": 6.7,
                         "points": [
                             0,
                             1,
@@ -13210,7 +13210,7 @@
                             8,
                             10
                         ],
-                        "value": 82,
+                        "value": 83.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -13234,7 +13234,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 9.8,
+                "points": 9.7,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -13306,9 +13306,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.54,
+        "stars": 1.535,
         "year": "2013/14",
-        "total_points": 30.8
+        "total_points": 30.7
     },
     {
         "commune": "BERE",
@@ -13354,7 +13354,7 @@
                             90,
                             100
                         ],
-                        "score": 8.3,
+                        "score": 8.2,
                         "points": [
                             0,
                             1,
@@ -13363,7 +13363,7 @@
                             8,
                             10
                         ],
-                        "value": 97,
+                        "value": 98.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -13387,7 +13387,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 12.3,
+                "points": 12.2,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -13459,9 +13459,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.565,
+        "stars": 2.56,
         "year": "2013/14",
-        "total_points": 51.3
+        "total_points": 51.2
     },
     {
         "commune": "BINDE",
@@ -13507,7 +13507,7 @@
                             90,
                             100
                         ],
-                        "score": 6.2,
+                        "score": 6.1,
                         "points": [
                             0,
                             1,
@@ -13516,7 +13516,7 @@
                             8,
                             10
                         ],
-                        "value": 88,
+                        "value": 89.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -13540,7 +13540,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 13.2,
+                "points": 13.1,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -13612,9 +13612,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.7600000000000002,
+        "stars": 2.7550000000000003,
         "year": "2013/14",
-        "total_points": 55.2
+        "total_points": 55.1
     },
     {
         "commune": "GOGO",
@@ -13660,7 +13660,7 @@
                             90,
                             100
                         ],
-                        "score": 8.7,
+                        "score": 8.5,
                         "points": [
                             0,
                             1,
@@ -13669,7 +13669,7 @@
                             8,
                             10
                         ],
-                        "value": 93,
+                        "value": 95.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -13693,7 +13693,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 15.7,
+                "points": 15.5,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -13765,9 +13765,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.585,
+        "stars": 1.575,
         "year": "2013/14",
-        "total_points": 31.7
+        "total_points": 31.5
     },
     {
         "commune": "GOMBOUSSOUGOU",
@@ -13813,7 +13813,7 @@
                             90,
                             100
                         ],
-                        "score": 6.1,
+                        "score": 8.9,
                         "points": [
                             0,
                             1,
@@ -13822,7 +13822,7 @@
                             8,
                             10
                         ],
-                        "value": 89,
+                        "value": 91.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -13846,7 +13846,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 11.1,
+                "points": 13.9,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -13918,9 +13918,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.605,
+        "stars": 1.7449999999999999,
         "year": "2013/14",
-        "total_points": 32.1
+        "total_points": 34.9
     },
     {
         "commune": "GUIBA",
@@ -13966,7 +13966,7 @@
                             90,
                             100
                         ],
-                        "score": 9.0,
+                        "score": 8.8,
                         "points": [
                             0,
                             1,
@@ -13975,7 +13975,7 @@
                             8,
                             10
                         ],
-                        "value": 90,
+                        "value": 92.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -13999,7 +13999,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 14.0,
+                "points": 13.8,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -14071,9 +14071,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.55,
+        "stars": 1.54,
         "year": "2013/14",
-        "total_points": 31.0
+        "total_points": 30.8
     },
     {
         "commune": "MANGA",
@@ -14119,7 +14119,7 @@
                             90,
                             100
                         ],
-                        "score": 8.9,
+                        "score": 8.7,
                         "points": [
                             0,
                             1,
@@ -14128,7 +14128,7 @@
                             8,
                             10
                         ],
-                        "value": 91,
+                        "value": 93.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -14152,7 +14152,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 13.9,
+                "points": 13.7,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -14224,9 +14224,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.395,
+        "stars": 2.3850000000000002,
         "year": "2013/14",
-        "total_points": 47.9
+        "total_points": 47.7
     },
     {
         "commune": "NOBERE",
@@ -14272,7 +14272,7 @@
                             90,
                             100
                         ],
-                        "score": 8.8,
+                        "score": 8.7,
                         "points": [
                             0,
                             1,
@@ -14281,7 +14281,7 @@
                             8,
                             10
                         ],
-                        "value": 92,
+                        "value": 93.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -14305,7 +14305,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 12.8,
+                "points": 12.7,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -14377,9 +14377,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.9399999999999997,
+        "stars": 1.935,
         "year": "2013/14",
-        "total_points": 38.8
+        "total_points": 38.7
     },
     {
         "commune": "BOUDRY",
@@ -14425,7 +14425,7 @@
                             90,
                             100
                         ],
-                        "score": 6.8,
+                        "score": 6.7,
                         "points": [
                             0,
                             1,
@@ -14434,7 +14434,7 @@
                             8,
                             10
                         ],
-                        "value": 82,
+                        "value": 83.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -14458,7 +14458,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 11.8,
+                "points": 11.7,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -14530,9 +14530,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.04,
+        "stars": 2.035,
         "year": "2013/14",
-        "total_points": 40.8
+        "total_points": 40.7
     },
     {
         "commune": "KOGHO",
@@ -14578,7 +14578,7 @@
                             90,
                             100
                         ],
-                        "score": 9.0,
+                        "score": 8.8,
                         "points": [
                             0,
                             1,
@@ -14587,7 +14587,7 @@
                             8,
                             10
                         ],
-                        "value": 90,
+                        "value": 92.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -14611,7 +14611,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 14.0,
+                "points": 13.8,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -14683,9 +14683,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.25,
+        "stars": 2.2399999999999998,
         "year": "2013/14",
-        "total_points": 45.0
+        "total_points": 44.8
     },
     {
         "commune": "MEGUET",
@@ -14731,7 +14731,7 @@
                             90,
                             100
                         ],
-                        "score": 6.8,
+                        "score": 6.7,
                         "points": [
                             0,
                             1,
@@ -14740,7 +14740,7 @@
                             8,
                             10
                         ],
-                        "value": 82,
+                        "value": 83.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -14764,7 +14764,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 11.8,
+                "points": 11.7,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -14836,9 +14836,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.34,
+        "stars": 2.335,
         "year": "2013/14",
-        "total_points": 46.8
+        "total_points": 46.7
     },
     {
         "commune": "MOGTEDO",
@@ -14893,7 +14893,7 @@
                             8,
                             10
                         ],
-                        "value": 100,
+                        "value": 100.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -15046,7 +15046,7 @@
                             8,
                             10
                         ],
-                        "value": 76,
+                        "value": 77.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -15190,7 +15190,7 @@
                             90,
                             100
                         ],
-                        "score": 8.8,
+                        "score": 8.7,
                         "points": [
                             0,
                             1,
@@ -15199,7 +15199,7 @@
                             8,
                             10
                         ],
-                        "value": 92,
+                        "value": 93.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -15223,7 +15223,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 13.8,
+                "points": 13.7,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -15295,9 +15295,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.29,
+        "stars": 2.285,
         "year": "2013/14",
-        "total_points": 45.8
+        "total_points": 45.7
     },
     {
         "commune": "ZORGHO",
@@ -15343,7 +15343,7 @@
                             90,
                             100
                         ],
-                        "score": 6.1,
+                        "score": 9.0,
                         "points": [
                             0,
                             1,
@@ -15352,7 +15352,7 @@
                             8,
                             10
                         ],
-                        "value": 89,
+                        "value": 90.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -15376,7 +15376,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 11.1,
+                "points": 14.0,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -15448,9 +15448,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.905,
+        "stars": 3.05,
         "year": "2013/14",
-        "total_points": 58.1
+        "total_points": 61.0
     },
     {
         "commune": "ZOUNGOU",
@@ -15496,7 +15496,7 @@
                             90,
                             100
                         ],
-                        "score": 8.8,
+                        "score": 8.6,
                         "points": [
                             0,
                             1,
@@ -15505,7 +15505,7 @@
                             8,
                             10
                         ],
-                        "value": 92,
+                        "value": 94.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -15529,7 +15529,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 13.8,
+                "points": 13.6,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -15601,9 +15601,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.6399999999999997,
+        "stars": 1.6300000000000001,
         "year": "2013/14",
-        "total_points": 32.8
+        "total_points": 32.6
     },
     {
         "commune": "BOUSSE",
@@ -15658,7 +15658,7 @@
                             8,
                             10
                         ],
-                        "value": 81,
+                        "value": 81.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -15802,7 +15802,7 @@
                             90,
                             100
                         ],
-                        "score": 7.0,
+                        "score": 6.9,
                         "points": [
                             0,
                             1,
@@ -15811,7 +15811,7 @@
                             8,
                             10
                         ],
-                        "value": 80,
+                        "value": 81.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -15835,7 +15835,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 11.0,
+                "points": 10.9,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -15907,9 +15907,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.05,
+        "stars": 2.045,
         "year": "2013/14",
-        "total_points": 41.0
+        "total_points": 40.9
     },
     {
         "commune": "NIOU",
@@ -15955,7 +15955,7 @@
                             90,
                             100
                         ],
-                        "score": 8.8,
+                        "score": 8.5,
                         "points": [
                             0,
                             1,
@@ -15964,7 +15964,7 @@
                             8,
                             10
                         ],
-                        "value": 92,
+                        "value": 95.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -15988,7 +15988,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 13.8,
+                "points": 13.5,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -16060,9 +16060,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.3899999999999997,
+        "stars": 2.375,
         "year": "2013/14",
-        "total_points": 47.8
+        "total_points": 47.5
     },
     {
         "commune": "SOURGOUBILA",
@@ -16108,7 +16108,7 @@
                             90,
                             100
                         ],
-                        "score": 6.8,
+                        "score": 6.7,
                         "points": [
                             0,
                             1,
@@ -16117,7 +16117,7 @@
                             8,
                             10
                         ],
-                        "value": 82,
+                        "value": 83.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -16141,7 +16141,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 11.8,
+                "points": 11.7,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -16213,9 +16213,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.79,
+        "stars": 1.7850000000000001,
         "year": "2013/14",
-        "total_points": 35.8
+        "total_points": 35.7
     },
     {
         "commune": "TOEGHIN",
@@ -16261,7 +16261,7 @@
                             90,
                             100
                         ],
-                        "score": 8.6,
+                        "score": 8.5,
                         "points": [
                             0,
                             1,
@@ -16270,7 +16270,7 @@
                             8,
                             10
                         ],
-                        "value": 94,
+                        "value": 95.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -16294,7 +16294,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 14.6,
+                "points": 14.5,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -16366,9 +16366,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.33,
+        "stars": 2.325,
         "year": "2013/14",
-        "total_points": 46.6
+        "total_points": 46.5
     },
     {
         "commune": "ABSOUYA",
@@ -16423,7 +16423,7 @@
                             8,
                             10
                         ],
-                        "value": 89,
+                        "value": 89.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -16576,7 +16576,7 @@
                             8,
                             10
                         ],
-                        "value": 84,
+                        "value": 84.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -16729,7 +16729,7 @@
                             8,
                             10
                         ],
-                        "value": 100,
+                        "value": 100.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -16873,7 +16873,7 @@
                             90,
                             100
                         ],
-                        "score": 8.3,
+                        "score": 8.1,
                         "points": [
                             0,
                             1,
@@ -16882,7 +16882,7 @@
                             8,
                             10
                         ],
-                        "value": 97,
+                        "value": 99.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -16906,7 +16906,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 13.3,
+                "points": 13.1,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -16978,9 +16978,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 3.5149999999999997,
+        "stars": 3.505,
         "year": "2013/14",
-        "total_points": 70.3
+        "total_points": 70.1
     },
     {
         "commune": "OURGOU-MANEGA",
@@ -17026,7 +17026,7 @@
                             90,
                             100
                         ],
-                        "score": 8.8,
+                        "score": 8.7,
                         "points": [
                             0,
                             1,
@@ -17035,7 +17035,7 @@
                             8,
                             10
                         ],
-                        "value": 92,
+                        "value": 93.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -17059,7 +17059,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 13.8,
+                "points": 13.7,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -17131,9 +17131,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.34,
+        "stars": 2.335,
         "year": "2013/14",
-        "total_points": 46.8
+        "total_points": 46.7
     },
     {
         "commune": "ZINIAR\u00c9",
@@ -17188,7 +17188,7 @@
                             8,
                             10
                         ],
-                        "value": 91,
+                        "value": 91.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -17332,7 +17332,7 @@
                             90,
                             100
                         ],
-                        "score": 8.5,
+                        "score": 8.4,
                         "points": [
                             0,
                             1,
@@ -17341,7 +17341,7 @@
                             8,
                             10
                         ],
-                        "value": 95,
+                        "value": 96.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -17365,7 +17365,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 17.5,
+                "points": 17.4,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -17437,9 +17437,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.175,
+        "stars": 2.17,
         "year": "2013/14",
-        "total_points": 43.5
+        "total_points": 43.4
     },
     {
         "commune": "DEOU",
@@ -17485,7 +17485,7 @@
                             90,
                             100
                         ],
-                        "score": 6.1,
+                        "score": 9.0,
                         "points": [
                             0,
                             1,
@@ -17494,7 +17494,7 @@
                             8,
                             10
                         ],
-                        "value": 89,
+                        "value": 90.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -17518,7 +17518,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 16.1,
+                "points": 19.0,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -17590,9 +17590,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.605,
+        "stars": 1.75,
         "year": "2013/14",
-        "total_points": 32.1
+        "total_points": 35.0
     },
     {
         "commune": "GOROM-GOROM",
@@ -17638,7 +17638,7 @@
                             90,
                             100
                         ],
-                        "score": 8.9,
+                        "score": 8.8,
                         "points": [
                             0,
                             1,
@@ -17647,7 +17647,7 @@
                             8,
                             10
                         ],
-                        "value": 91,
+                        "value": 92.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -17671,7 +17671,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 13.9,
+                "points": 13.8,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -17743,9 +17743,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.9949999999999999,
+        "stars": 1.9899999999999998,
         "year": "2013/14",
-        "total_points": 39.9
+        "total_points": 39.8
     },
     {
         "commune": "MARKOYE",
@@ -17800,7 +17800,7 @@
                             8,
                             10
                         ],
-                        "value": 87,
+                        "value": 87.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -17944,7 +17944,7 @@
                             90,
                             100
                         ],
-                        "score": 6.5,
+                        "score": 6.3,
                         "points": [
                             0,
                             1,
@@ -17953,7 +17953,7 @@
                             8,
                             10
                         ],
-                        "value": 85,
+                        "value": 87.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -17977,7 +17977,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 13.5,
+                "points": 13.3,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -18049,9 +18049,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.975,
+        "stars": 1.9649999999999999,
         "year": "2013/14",
-        "total_points": 39.5
+        "total_points": 39.3
     },
     {
         "commune": "TIN-AKOFF",
@@ -18106,7 +18106,7 @@
                             8,
                             10
                         ],
-                        "value": 88,
+                        "value": 88.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -18250,7 +18250,7 @@
                             90,
                             100
                         ],
-                        "score": 6.4,
+                        "score": 6.3,
                         "points": [
                             0,
                             1,
@@ -18259,7 +18259,7 @@
                             8,
                             10
                         ],
-                        "value": 86,
+                        "value": 87.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -18283,7 +18283,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 11.4,
+                "points": 11.3,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -18355,9 +18355,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.32,
+        "stars": 2.315,
         "year": "2013/14",
-        "total_points": 46.4
+        "total_points": 46.3
     },
     {
         "commune": "DORI",
@@ -18403,7 +18403,7 @@
                             90,
                             100
                         ],
-                        "score": 8.6,
+                        "score": 8.5,
                         "points": [
                             0,
                             1,
@@ -18412,7 +18412,7 @@
                             8,
                             10
                         ],
-                        "value": 94,
+                        "value": 95.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -18436,7 +18436,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 13.6,
+                "points": 13.5,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -18508,9 +18508,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.2800000000000002,
+        "stars": 2.275,
         "year": "2013/14",
-        "total_points": 45.6
+        "total_points": 45.5
     },
     {
         "commune": "FALAGOUNTOU",
@@ -18556,7 +18556,7 @@
                             90,
                             100
                         ],
-                        "score": 6.4,
+                        "score": 6.3,
                         "points": [
                             0,
                             1,
@@ -18565,7 +18565,7 @@
                             8,
                             10
                         ],
-                        "value": 86,
+                        "value": 87.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -18589,7 +18589,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 10.4,
+                "points": 10.3,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -18661,9 +18661,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.02,
+        "stars": 2.0149999999999997,
         "year": "2013/14",
-        "total_points": 40.4
+        "total_points": 40.3
     },
     {
         "commune": "GORGADJI",
@@ -18709,7 +18709,7 @@
                             90,
                             100
                         ],
-                        "score": 6.9,
+                        "score": 6.8,
                         "points": [
                             0,
                             1,
@@ -18718,7 +18718,7 @@
                             8,
                             10
                         ],
-                        "value": 81,
+                        "value": 82.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -18742,7 +18742,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 10.9,
+                "points": 10.8,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -18814,9 +18814,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.445,
+        "stars": 2.44,
         "year": "2013/14",
-        "total_points": 48.9
+        "total_points": 48.8
     },
     {
         "commune": "SAMPELGA",
@@ -18871,7 +18871,7 @@
                             8,
                             10
                         ],
-                        "value": 90,
+                        "value": 90.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -19015,7 +19015,7 @@
                             90,
                             100
                         ],
-                        "score": 8.2,
+                        "score": 8.1,
                         "points": [
                             0,
                             1,
@@ -19024,7 +19024,7 @@
                             8,
                             10
                         ],
-                        "value": 98,
+                        "value": 99.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -19048,7 +19048,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 12.2,
+                "points": 12.1,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -19120,9 +19120,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.51,
+        "stars": 2.505,
         "year": "2013/14",
-        "total_points": 50.2
+        "total_points": 50.1
     },
     {
         "commune": "ARBINDA",
@@ -19177,7 +19177,7 @@
                             8,
                             10
                         ],
-                        "value": 86,
+                        "value": 86.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -19321,7 +19321,7 @@
                             90,
                             100
                         ],
-                        "score": 8.9,
+                        "score": 8.8,
                         "points": [
                             0,
                             1,
@@ -19330,7 +19330,7 @@
                             8,
                             10
                         ],
-                        "value": 91,
+                        "value": 92.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -19354,7 +19354,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 13.9,
+                "points": 13.8,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -19426,9 +19426,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.3449999999999998,
+        "stars": 2.34,
         "year": "2013/14",
-        "total_points": 46.9
+        "total_points": 46.8
     },
     {
         "commune": "DIGUEL",
@@ -19483,7 +19483,7 @@
                             8,
                             10
                         ],
-                        "value": 70,
+                        "value": 70.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -19627,7 +19627,7 @@
                             90,
                             100
                         ],
-                        "score": 9.0,
+                        "score": 8.9,
                         "points": [
                             0,
                             1,
@@ -19636,7 +19636,7 @@
                             8,
                             10
                         ],
-                        "value": 90,
+                        "value": 91.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -19660,7 +19660,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 14.0,
+                "points": 13.9,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -19732,9 +19732,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 2.8000000000000003,
+        "stars": 2.795,
         "year": "2013/14",
-        "total_points": 56.0
+        "total_points": 55.9
     },
     {
         "commune": "KELBO",
@@ -19780,7 +19780,7 @@
                             90,
                             100
                         ],
-                        "score": 8.8,
+                        "score": 8.6,
                         "points": [
                             0,
                             1,
@@ -19789,7 +19789,7 @@
                             8,
                             10
                         ],
-                        "value": 92,
+                        "value": 94.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -19813,7 +19813,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 13.8,
+                "points": 13.6,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -19885,9 +19885,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.69,
+        "stars": 1.6800000000000002,
         "year": "2013/14",
-        "total_points": 33.8
+        "total_points": 33.6
     },
     {
         "commune": "KOUTOUGOU",
@@ -19933,7 +19933,7 @@
                             90,
                             100
                         ],
-                        "score": 6.3,
+                        "score": 6.2,
                         "points": [
                             0,
                             1,
@@ -19942,7 +19942,7 @@
                             8,
                             10
                         ],
-                        "value": 87,
+                        "value": 88.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -19966,7 +19966,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 11.3,
+                "points": 11.2,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -20038,9 +20038,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.815,
+        "stars": 1.8100000000000003,
         "year": "2013/14",
-        "total_points": 36.3
+        "total_points": 36.2
     },
     {
         "commune": "NASSOUMBOU",
@@ -20086,7 +20086,7 @@
                             90,
                             100
                         ],
-                        "score": 6.4,
+                        "score": 6.2,
                         "points": [
                             0,
                             1,
@@ -20095,7 +20095,7 @@
                             8,
                             10
                         ],
-                        "value": 86,
+                        "value": 88.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -20119,7 +20119,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 13.4,
+                "points": 13.2,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -20191,9 +20191,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.47,
+        "stars": 1.46,
         "year": "2013/14",
-        "total_points": 29.4
+        "total_points": 29.2
     },
     {
         "commune": "POBE-MENGAO",
@@ -20239,7 +20239,7 @@
                             90,
                             100
                         ],
-                        "score": 6.7,
+                        "score": 6.4,
                         "points": [
                             0,
                             1,
@@ -20248,7 +20248,7 @@
                             8,
                             10
                         ],
-                        "value": 83,
+                        "value": 86.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -20272,7 +20272,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 11.7,
+                "points": 11.4,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -20344,9 +20344,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.7850000000000001,
+        "stars": 1.77,
         "year": "2013/14",
-        "total_points": 35.7
+        "total_points": 35.4
     },
     {
         "commune": "TONGOMAYEL",
@@ -20392,7 +20392,7 @@
                             90,
                             100
                         ],
-                        "score": 6.4,
+                        "score": 6.3,
                         "points": [
                             0,
                             1,
@@ -20401,7 +20401,7 @@
                             8,
                             10
                         ],
-                        "value": 86,
+                        "value": 87.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -20425,7 +20425,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 10.4,
+                "points": 10.3,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -20497,9 +20497,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.57,
+        "stars": 1.565,
         "year": "2013/14",
-        "total_points": 31.4
+        "total_points": 31.3
     },
     {
         "commune": "BOUNDORE",
@@ -20545,7 +20545,7 @@
                             90,
                             100
                         ],
-                        "score": 6.5,
+                        "score": 6.4,
                         "points": [
                             0,
                             1,
@@ -20554,7 +20554,7 @@
                             8,
                             10
                         ],
-                        "value": 85,
+                        "value": 86.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -20578,7 +20578,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 10.5,
+                "points": 10.4,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -20650,9 +20650,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.225,
+        "stars": 1.22,
         "year": "2013/14",
-        "total_points": 24.5
+        "total_points": 24.4
     },
     {
         "commune": "MANSILA",
@@ -20707,7 +20707,7 @@
                             8,
                             10
                         ],
-                        "value": 64,
+                        "value": 64.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -20851,7 +20851,7 @@
                             90,
                             100
                         ],
-                        "score": 6.1,
+                        "score": 9.0,
                         "points": [
                             0,
                             1,
@@ -20860,7 +20860,7 @@
                             8,
                             10
                         ],
-                        "value": 89,
+                        "value": 90.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -20884,7 +20884,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 12.1,
+                "points": 15.0,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -20956,9 +20956,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.805,
+        "stars": 1.9500000000000002,
         "year": "2013/14",
-        "total_points": 36.1
+        "total_points": 39.0
     },
     {
         "commune": "SOLHAN",
@@ -21004,7 +21004,7 @@
                             90,
                             100
                         ],
-                        "score": 1.5,
+                        "score": 1.4,
                         "points": [
                             0,
                             1,
@@ -21013,7 +21013,7 @@
                             8,
                             10
                         ],
-                        "value": 50,
+                        "value": 51.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -21037,7 +21037,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 5.5,
+                "points": 5.4,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -21109,9 +21109,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.525,
+        "stars": 1.52,
         "year": "2013/14",
-        "total_points": 30.5
+        "total_points": 30.4
     },
     {
         "commune": "TANKOUGOUNADIE",
@@ -21157,7 +21157,7 @@
                             90,
                             100
                         ],
-                        "score": 4.2,
+                        "score": 4.1,
                         "points": [
                             0,
                             1,
@@ -21166,7 +21166,7 @@
                             8,
                             10
                         ],
-                        "value": 76,
+                        "value": 78.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {
@@ -21190,7 +21190,7 @@
                     }
                 ],
                 "max_points": 23,
-                "points": 8.2,
+                "points": 8.1,
                 "label": "CONSEIL MUNICIPAL"
             },
             {
@@ -21262,9 +21262,9 @@
         ],
         "label": "COMP\u00c9TENCE MUNICIPALE 2013/14",
         "max_points": 86,
-        "stars": 1.26,
+        "stars": 1.255,
         "year": "2013/14",
-        "total_points": 25.2
+        "total_points": 25.1
     },
     {
         "commune": "TITABE",
@@ -21319,7 +21319,7 @@
                             8,
                             10
                         ],
-                        "value": 82,
+                        "value": 82.0,
                         "label": "Taux de participation aux r\u00e9unions\nordinaires du Conseil Municipal (%)"
                     },
                     {

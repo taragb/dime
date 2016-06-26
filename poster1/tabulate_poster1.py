@@ -101,8 +101,8 @@ def average_attendance(row):
 		score = 0
 		perc = 0
 	else:
-		avg = (int(row['ic_a_04-councilor_attendance_meeting1']) + int(row['ic_a_04-councilor_attendance_meeting2']) + int(row['ic_a_04-councilor_attendance_meeting3']) + int(row['ic_a_04-councilor_attendance_meeting4'])) / int(row['ic_a_03-ordinary_council_meetings'])
-		perc = (avg*100)/int(row['ic_a_04-total_councilor'])
+		avg = (float(row['ic_a_04-councilor_attendance_meeting1']) + float(row['ic_a_04-councilor_attendance_meeting2']) + float(row['ic_a_04-councilor_attendance_meeting3']) + float(row['ic_a_04-councilor_attendance_meeting4'])) / float(row['ic_a_03-ordinary_council_meetings'])
+		perc = round((avg*100)/int(row['ic_a_04-total_councilor']))
 		score = 0;
 		if(perc >=20 and perc <40):
 			score = 0 + ((40 - perc) / 20.0);
@@ -117,8 +117,8 @@ def average_attendance(row):
 		if(perc >=100):
 			score = 10;
 
-		# if row['commune'] == 'BARSALOGHO':
-		# 	print avg, perc, score
+		if row['commune'] == 'ANDEMTENGA':
+			print avg, perc, score
 	return dict(average_attendance=perc, attendance_score=round(score,1));
 
 # Number of meetings Held (0-4): How many of these meetings were held: ic_a_05-CdC_meetings_2013
