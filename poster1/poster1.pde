@@ -321,6 +321,7 @@ void personnel(JSONObject peeps){
   check = loadShape("check.svg");
   
   fill(0);
+  textFont(boldFont);
   text("Personnel de la municipalité remplissant l’organigramme type", 300, 400);
   
   textSize(25);
